@@ -9,11 +9,20 @@ use Prophecy\Exception\Doubler\ClassNotFoundException;
  * Transforms the input string into a simple list
  *
  * @param  string $string
+ * @param  bool  $asIntegers
  * @return array
  */
-function xplode_input($string)
+function xplode_input(string $inputString, bool $asIntegers = false)
 {
-    return array_map('trim', explode("\n", $string));
+    $items = array_map('trim', explode("\n", $inputString));
+    
+    // No need actually to cast to integer in PHP, but I'll do it anyway
+    if ($asIntegers) {
+        $items = array_map(function($el) {
+            return (int)$el;
+        }, $items);
+    }
+    return $items;
 }
 
 /**
