@@ -31,13 +31,10 @@ function solve_two($input) : string
     
     $items = xplode_input($input, true);
     foreach ($items as $item) {
-        echo "Current: $item\n";
         foreach ($items as $testMatch) {
-            echo "Checking: $testMatch\n";
             if ($testMatch != $item) {
                 $couple = $item + $testMatch;
                 $companion = 2020 - $couple;
-                echo "Diff: $companion\n";
                 if (in_array($companion, $items) && $companion != 0) {
                     echo sprintf("Match: %d, %d, %d\n", $item, $testMatch, $companion);
                     return sprintf("%d\n", $item * $testMatch * $companion);
