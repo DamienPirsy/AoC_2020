@@ -1,8 +1,10 @@
 # AoC_2020
-My take at the Advent of Code 2020 🎄
-Solutions are in PHP beacuse:
-- It's my main language;
-- Givent the little time I have for these amusements, using another language would've been frustrating :stuck_out_tongue_winking_eye: 
+My take at the :santa: Advent of Code 2020 🎄
+
+Solutions are provided in PHP because:
+
+- It's my main language of everyday;
+- Given the little time I have for these amusements using another language would've been frustrating :stuck_out_tongue_winking_eye: 
 
 [Blog](https://matteovignoli.it)
 |
