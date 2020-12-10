@@ -20,6 +20,37 @@ function solve_one($input) : string
      * As a sanity check, look through your list of boarding passes. 
      * What is the highest seat ID on a boarding pass?
      */
+    
+    return sprintf("Highest id: %d\n", get_seat_ids($input)[0]);
+}
+
+
+function solve_two($input) : string
+{
+    $ids = get_seat_ids($input);
+
+    $previous = 0;
+    $next = 0;
+    foreach ($ids as $index => $id) {
+        if (isset($ids[$index-1]) && isset($ids[$index+1])) {
+            if ($ids[$index+1] != ($id-1)) {
+                $previous = $id;
+            }
+            if ($ids[$index-1] != ($id+1)){
+                $next = $id;
+            }
+        }
+    }
+    return sprintf("Seat id: %d\n", ($previous+$next)/2);
+}
+
+/**
+ *
+ * @param string $input
+ * @return array
+ */
+function get_seat_ids(string $input): array {
+
     $items = array_map('str_split', xplode_input($input));
 
     $ids = [];
@@ -46,13 +77,7 @@ function solve_one($input) : string
         array_push($ids, ($row*8) + $col);
     }
     rsort($ids);
-    return sprintf("Highest id: %d\n", $ids[0]);
-}
-
-
-function solve_two($input) : string
-{
-    return "";
+    return $ids;
 }
 
 /**
