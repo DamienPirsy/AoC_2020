@@ -111,22 +111,7 @@ function validate_pid(string $pid) : bool {
  */
 function valid_passports(string $input) : array {
 
-    $items = xplode_input($input);
-    $passports = [];
-    $currentPasswport = [];
-
-    foreach ($items as $item) {
-
-        if (!empty($item)) {
-            // if it's not a new line append data to the current passport
-            array_push($currentPasswport, $item);
-        } else {
-            // the current passport is complete, add it to the global list and start a new one
-            array_push($passports, $currentPasswport);
-            $currentPasswport = [];
-        }
-    }
-
+    $passports = group_lines($input);
     $validPassports = [];
     // step 1 done, now we have all passports with the complete data. Cycle trough each one
     // and put the info together

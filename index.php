@@ -12,7 +12,7 @@ use Prophecy\Exception\Doubler\ClassNotFoundException;
  * @param  bool  $asIntegers
  * @return array
  */
-function xplode_input(string $inputString, bool $asIntegers = false)
+function xplode_input(string $inputString, bool $asIntegers = false) : array
 {
     $items = array_map('trim', explode("\n", $inputString));
     
@@ -23,6 +23,31 @@ function xplode_input(string $inputString, bool $asIntegers = false)
         }, $items);
     }
     return $items;
+}
+
+/**
+ * Groups lines when separated by a blank line
+ *
+ * @param string $inputString
+ * @return array
+ */
+function group_lines (string $inputString) : array {
+    $items = xplode_input($inputString);
+    $group = [];
+    $currentLine = [];
+
+    foreach ($items as $item) {
+
+        if (!empty($item)) {
+            // if it's not a new line append data to the current passport
+            array_push($currentLine, $item);
+        } else {
+            // the current passport is complete, add it to the global list and start a new one
+            array_push($group, $currentLine);
+            $currentLine = [];
+        }
+    }
+    return $group;
 }
 
 /**
