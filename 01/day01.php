@@ -14,7 +14,6 @@ function solve_one($input) : string
     foreach ($items as $item) {
         $companion = 2020 -$item;
         if (in_array($companion, $items)) {
-            echo sprintf("Tuple found: %d and %d \n", $item, $companion);
             return sprintf("%d\n", $companion * $item);
         }
     }
@@ -36,7 +35,6 @@ function solve_two($input) : string
                 $couple = $item + $testMatch;
                 $companion = 2020 - $couple;
                 if (in_array($companion, $items) && $companion != 0) {
-                    echo sprintf("Match: %d, %d, %d\n", $item, $testMatch, $companion);
                     return sprintf("%d\n", $item * $testMatch * $companion);
                 }
             }
