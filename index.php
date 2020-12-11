@@ -14,7 +14,7 @@ use Prophecy\Exception\Doubler\ClassNotFoundException;
  */
 function xplode_input(string $inputString, bool $asIntegers = false) : array
 {
-    $items = array_map('trim', explode("\n", $inputString));
+    $items = array_map('trim', explode("\n", trim($inputString)));
     
     // No need actually to cast to integer in PHP, but I'll do it anyway
     if ($asIntegers) {

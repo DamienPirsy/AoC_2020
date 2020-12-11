@@ -35,7 +35,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 4: Passport Processing](https://github.com/DamienPirsy/AoC_2020/tree/master/04)| 🌟 | 🌟 |
 | ✔ [Day 5: Binary Boarding](https://github.com/DamienPirsy/AoC_2020/tree/master/05)| 🌟 | 🌟 |
 | ✔ [Day 6: Custom Customs](https://github.com/DamienPirsy/AoC_2020/tree/master/06)| 🌟 | 🌟 |
-| ⏳ [Day 7: Handy Haversacks]()| | |
+| [Day 7: Handy Haversacks]()| | |
 | [Day 8: Handheld Halting]()| | |
 | [Day 9: Encoding Error]()| | |
 | [Day 10: Adapter Array]()| | |
