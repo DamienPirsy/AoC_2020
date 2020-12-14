@@ -40,7 +40,7 @@ function solve_one($input) : string
 
     $bagRules = xplode_input($input);
     $bagsList = [];
-    foreach ($bagRules as $index => $rule) {
+    foreach ($bagRules as $rule) {
 
         $parts = explode(',', $rule);
         foreach ($parts as $part) {
@@ -90,85 +90,24 @@ function solve_two($input) : string
 
     $bagRules = xplode_input($input);
 
+    $bagsList = [];
     foreach ($bagRules as $rule) {
-        $bagsList = [];
-        foreach ($bagRules as $rule) {
-            $parts = explode(',', $rule);
-            foreach ($parts as $part) {
-                if (preg_match('/(?P<container_bag>(\w+\s\w+)) bags contain (?<num>(\d+|no)) (other )?(?P<bag>(\w+ \w+)) bag(s)?/', $part, $matches)) {
-                    $containerBag = $matches['container_bag'];
-                    $bagsList[$containerBag][] = [$matches['bag'] => $matches['num']];
-                } else {
-                    if (preg_match('/(?<num>\d+) (?P<bag>(\w+ \w+))/', $part, $matches) && isset($containerBag)) {
-                        array_push($bagsList[$containerBag], [$matches['bag'] => $matches['num']]);
-                    }
+
+        $parts = explode(',', $rule);
+        foreach ($parts as $part) {
+            if (preg_match('/(?P<container_bag>(\w+\s\w+)) bags contain (?P<qty>\d+) (?P<bag>(\w+ \w+)) bag(s)?/', $part, $matches)) {
+                $containerBag = $matches['container_bag'];
+                $bagsList[$containerBag]['bags'] = [$matches['bag'] => $matches['qty']];
+            } else {
+                if (preg_match('/(?P<qty>\d+) (?P<bag>(\w+ \w+))/', $part, $matches) && isset($containerBag)) {
+                    $bagsList[$containerBag]['bags'][$matches['bag']] = $matches['qty'];
                 }
             }
-        }        
-    }
-
-    /*
-    [shiny lime] => Array
-        (
-            [0] => Array
-                (
-                    [striped olive] => 4
-                )
-            [1] => Array
-                (
-                    [dim coral] => 3
-                )
-
-        )
-    [striped indigo] => Array
-        (
-            [0] => Array
-                (
-                    [wavy red] => 3
-                )
-            [1] => Array
-                (
-                    [posh white] => 5
-                )
-            [2] => Array
-                (
-                    [light tan] => 5
-                )
-            [3] => Array
-                (
-                    [plaid bronze] => 1
-                )
-
-        )
-    */
-
-}
-
-/**
- *
- * @param array $keys
- * @param array $bagsList
- * @param integer $total
- * @return array
- */
-/* function cycle(array $keys, array $bagsList, array &$global) : array {
-    $temp = [];
-    foreach ($keys as $key) {
-        if (isset($bagsList[$key])) {
-            foreach ($bagsList[$key] as $contained) {
-                print_r($contained);
-                $total = array_values($contained)[0];
-                array_push($temp, array_keys($contained)[0]);
-            }
         }
-
-    }
-    return $temp;
-} */
-
-/**
- * shiny gold
- */
+    }   
+    $total = count_bags($bagsList, 'shiny gold') - 1;
+    return sprintf("Total bags: %d\n", $total);
+}
 
 /**
  *
@@ -188,4 +127,19 @@ function reduce_bags(array $bags, array $bagsList, array &$totalBags): array {
         }
     }
     return $outerBags;
+}
+
+/**
+ * @param array $bags
+ * @param string $type
+ * @return integer
+ */
+function count_bags(array $bags, string $type) : int {
+    $count = 1;
+    if (isset($bags[$type]['bags'])) {
+        foreach ($bags[$type]['bags'] as $type => $quantity) {
+            $count += count_bags($bags, $type) * $quantity;
+        }
+    }
+    return $count;
 }
