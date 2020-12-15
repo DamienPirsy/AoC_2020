@@ -25,6 +25,7 @@ To save your vacation, you need to get all fifty stars by December 25th.
 
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
+| :hourglass_flowing_sand: = (in progress)
 ## Progress
 
 | Day  | Part One | Part Two | 
@@ -36,7 +37,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 5: Binary Boarding](https://github.com/DamienPirsy/AoC_2020/tree/master/05)| 🌟 | 🌟 |
 | ✔ [Day 6: Custom Customs](https://github.com/DamienPirsy/AoC_2020/tree/master/06)| 🌟 | 🌟 |
 | ✔ [Day 7: Handy Haversacks](https://github.com/DamienPirsy/AoC_2020/tree/master/07)| 🌟 | 🌟 |
-| [Day 8: Handheld Halting]()| | |
+| [Day 8: Handheld Halting]()| 🌟 | :hourglass_flowing_sand: |
 | [Day 9: Encoding Error]()| | |
 | [Day 10: Adapter Array]()| | |
 | [Day 11: TBD]()| | |
