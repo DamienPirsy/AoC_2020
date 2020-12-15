@@ -12,25 +12,65 @@ function solve_one($input) : string
      * below it, and jmp -20 would cause the instruction 20 lines above to be executed next.
      * - nop stands for No OPeration - it does nothing. The instruction immediately below it is executed next.
      */
+
+    [$accumulator, $loop] = loop_instructions(xplode_input($input));
+    return sprintf("Last accumulator value: %d\n", $accumulator);
+}
+
+
+function solve_two($input) : string
+{
+    /**
+     * Fix the program so that it terminates normally by changing exactly one jmp (to nop) or nop (to jmp). 
+     * What is the value of the accumulator after the program terminates?
+     */
+    // basically, I need to test each modification of the original instruction until I get the correct one
+
     $instructions = xplode_input($input);
-    
+    for ($i = 0; $i < count($instructions); $i++) {
+        [$command, $value] = get_instruction($instructions[$i]);
+
+        if ($command == 'nop' || $command == 'jmp') {
+            $newCommand = $command == 'nop' ? 'jmp '.$value : 'nop '.$value;
+            $newInstructions = $instructions;
+            $newInstructions[$i] = $newCommand;
+            [$accumulator, $loop] = loop_instructions($newInstructions);
+            if (!$loop) {
+                // in case we went beyond the edge
+                return sprintf("Last accumulator value: %d\n", $accumulator);
+            }
+        }
+
+    }
+}
+
+/**
+ *
+ * @param array $instructions
+ * @return array
+ */
+function loop_instructions(array $instructions) : array
+{
     $visited = [];
     $accumulator = 0;
    
     $i = 0;
     while(true) 
     {
-        // start a normal cycle
+        if ($i == count($instructions)) {
+            return [$accumulator, false];
+        }
+        if (in_array($i, $visited)) {
+            return [$accumulator, true];
+        }
         [$command, $value] = get_instruction($instructions[$i]);
         [$operation, $val] = get_number($value);
 
-        if (in_array($i, $visited)) {
-            return sprintf("Last accumulator value: %d\n", $accumulator);
-        } 
+        
         array_push($visited, $i);        
         switch ($command) {
             case 'acc':
-                // TODO a better way for this?
+                // TODO a better way for this
                 $accumulator = $operation == '+' ? ($accumulator+$val) : ($accumulator-$val);
                 $i = $i+1;
                 break;
@@ -44,12 +84,11 @@ function solve_one($input) : string
     }
 }
 
-
-function solve_two($input) : string
-{
-    return "";
-}
-
+/**
+ *
+ * @param string $operation
+ * @return array
+ */
 function get_number(string $operation) : array
 {
     preg_match('/(\+|-)([0-9]+)/', $operation, $matches);    
