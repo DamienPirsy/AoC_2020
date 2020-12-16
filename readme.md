@@ -39,7 +39,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 7: Handy Haversacks](https://github.com/DamienPirsy/AoC_2020/tree/master/07)| 🌟 | 🌟 |
 | ✔ [Day 8: Handheld Halting](https://github.com/DamienPirsy/AoC_2020/tree/master/08)| 🌟 | 🌟 |
 | ✔ [Day 9: Encoding Error](https://github.com/DamienPirsy/AoC_2020/tree/master/09)| 🌟 | 🌟 |
-| [Day 10: Adapter Array]()| :hourglass_flowing_sand: | |
+| [Day 10: Adapter Array](https://github.com/DamienPirsy/AoC_2020/tree/master/10)| 🌟 | :hourglass_flowing_sand: |
 | [Day 11: TBD]()| | |
 | [Day 12: TBD]()| | |
 | [Day 13: TBD]()| | |
