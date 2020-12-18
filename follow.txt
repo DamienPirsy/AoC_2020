@@ -1,0 +1,13693 @@
+**********************************
+====================================
+Current: y 0, x 0 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 0 2 L
+end R
+start BL
+end BL
+start B
+End B at 1 0 L
+end B
+start BR
+End BR at 1 1 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 2 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 0 L
+end L
+start R
+End R at 0 3 L
+end R
+start BL
+End BL at 1 1 L
+end BL
+start B
+End B at 1 2 L
+end B
+start BR
+End BR at 1 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 3 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 2 L
+end L
+start R
+End R at 0 5 L
+end R
+start BL
+End BL at 1 2 L
+end BL
+start B
+End B at 1 3 L
+end B
+start BR
+End BR at 1 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 5 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 3 L
+end L
+start R
+End R at 0 6 L
+end R
+start BL
+End BL at 1 4 L
+end BL
+start B
+End B at 1 5 L
+end B
+start BR
+End BR at 1 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 6 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 5 L
+end L
+start R
+End R at 0 8 L
+end R
+start BL
+End BL at 1 5 L
+end BL
+start B
+End B at 1 6 L
+end B
+start BR
+End BR at 3 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 8 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 6 L
+end L
+start R
+End R at 0 9 L
+end R
+start BL
+End BL at 3 5 L
+end BL
+start B
+End B at 1 8 L
+end B
+start BR
+End BR at 1 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 9 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 8 L
+end L
+start R
+end R
+start BL
+End BL at 1 8 L
+end BL
+start B
+End B at 1 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 0 0 L
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 1 1 L
+end R
+start BL
+end BL
+start B
+End B at 2 0 L
+end B
+start BR
+End BR at 3 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 1 (L)
+start TL
+End TL at 0 0 L
+end TL
+start Top
+end Top
+start TR
+End TR at 0 2 L
+end TR
+start L
+End L at 1 0 L
+end L
+start R
+End R at 1 2 L
+end R
+start BL
+End BL at 2 0 L
+end BL
+start B
+End B at 3 1 L
+end B
+start BR
+End BR at 2 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 2 (L)
+start TL
+end TL
+start Top
+End Top at 0 2 L
+end Top
+start TR
+End TR at 0 3 L
+end TR
+start L
+End L at 1 1 L
+end L
+start R
+End R at 1 3 L
+end R
+start BL
+End BL at 3 0 L
+end BL
+start B
+End B at 2 2 L
+end B
+start BR
+End BR at 4 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 3 (L)
+start TL
+End TL at 0 2 L
+end TL
+start Top
+End Top at 0 3 L
+end Top
+start TR
+end TR
+start L
+End L at 1 2 L
+end L
+start R
+End R at 1 4 L
+end R
+start BL
+End BL at 2 2 L
+end BL
+start B
+End B at 3 3 L
+end B
+start BR
+End BR at 2 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 4 (L)
+start TL
+End TL at 0 3 L
+end TL
+start Top
+end Top
+start TR
+End TR at 0 5 L
+end TR
+start L
+End L at 1 3 L
+end L
+start R
+End R at 1 5 L
+end R
+start BL
+End BL at 3 2 L
+end BL
+start B
+End B at 2 4 L
+end B
+start BR
+End BR at 3 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 5 (L)
+start TL
+end TL
+start Top
+End Top at 0 5 L
+end Top
+start TR
+End TR at 0 6 L
+end TR
+start L
+End L at 1 4 L
+end L
+start R
+End R at 1 6 L
+end R
+start BL
+End BL at 2 4 L
+end BL
+start B
+End B at 3 5 L
+end B
+start BR
+End BR at 4 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 6 (L)
+start TL
+End TL at 0 5 L
+end TL
+start Top
+End Top at 0 6 L
+end Top
+start TR
+end TR
+start L
+End L at 1 5 L
+end L
+start R
+End R at 1 8 L
+end R
+start BL
+End BL at 4 3 L
+end BL
+start B
+End B at 3 6 L
+end B
+start BR
+End BR at 2 7 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 8 (L)
+start TL
+end TL
+start Top
+End Top at 0 8 L
+end Top
+start TR
+End TR at 0 9 L
+end TR
+start L
+End L at 1 6 L
+end L
+start R
+End R at 1 9 L
+end R
+start BL
+End BL at 2 7 L
+end BL
+start B
+End B at 3 8 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 9 (L)
+start TL
+End TL at 0 8 L
+end TL
+start Top
+End Top at 0 9 L
+end Top
+start TR
+end TR
+start L
+End L at 1 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 6 L
+end BL
+start B
+End B at 3 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 2, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 1 0 L
+end Top
+start TR
+End TR at 1 1 L
+end TR
+start L
+end L
+start R
+End R at 2 2 L
+end R
+start BL
+end BL
+start B
+End B at 3 0 L
+end B
+start BR
+End BR at 3 1 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 2, x 2 (L)
+start TL
+End TL at 1 1 L
+end TL
+start Top
+End Top at 1 2 L
+end Top
+start TR
+End TR at 1 3 L
+end TR
+start L
+End L at 2 0 L
+end L
+start R
+End R at 2 4 L
+end R
+start BL
+End BL at 3 1 L
+end BL
+start B
+End B at 3 2 L
+end B
+start BR
+End BR at 3 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 2, x 4 (L)
+start TL
+End TL at 1 3 L
+end TL
+start Top
+End Top at 1 4 L
+end Top
+start TR
+End TR at 1 5 L
+end TR
+start L
+End L at 2 2 L
+end L
+start R
+End R at 2 7 L
+end R
+start BL
+End BL at 3 3 L
+end BL
+start B
+End B at 5 4 L
+end B
+start BR
+End BR at 3 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 2, x 7 (L)
+start TL
+End TL at 1 6 L
+end TL
+start Top
+end Top
+start TR
+End TR at 1 8 L
+end TR
+start L
+End L at 2 4 L
+end L
+start R
+end R
+start BL
+End BL at 3 6 L
+end BL
+start B
+End B at 7 7 L
+end B
+start BR
+End BR at 3 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 2 0 L
+end Top
+start TR
+End TR at 1 2 L
+end TR
+start L
+end L
+start R
+End R at 3 1 L
+end R
+start BL
+end BL
+start B
+End B at 4 0 L
+end B
+start BR
+End BR at 5 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 1 (L)
+start TL
+End TL at 2 0 L
+end TL
+start Top
+End Top at 1 1 L
+end Top
+start TR
+End TR at 2 2 L
+end TR
+start L
+End L at 3 0 L
+end L
+start R
+End R at 3 2 L
+end R
+start BL
+End BL at 4 0 L
+end BL
+start B
+End B at 7 1 L
+end B
+start BR
+End BR at 4 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 2 (L)
+start TL
+End TL at 1 0 L
+end TL
+start Top
+End Top at 2 2 L
+end Top
+start TR
+End TR at 1 4 L
+end TR
+start L
+End L at 3 1 L
+end L
+start R
+End R at 3 3 L
+end R
+start BL
+End BL at 5 0 L
+end BL
+start B
+End B at 4 2 L
+end B
+start BR
+End BR at 4 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 3 (L)
+start TL
+End TL at 2 2 L
+end TL
+start Top
+End Top at 1 3 L
+end Top
+start TR
+End TR at 2 4 L
+end TR
+start L
+End L at 3 2 L
+end L
+start R
+End R at 3 5 L
+end R
+start BL
+End BL at 4 2 L
+end BL
+start B
+End B at 4 3 L
+end B
+start BR
+End BR at 5 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 5 (L)
+start TL
+End TL at 2 4 L
+end TL
+start Top
+End Top at 1 5 L
+end Top
+start TR
+End TR at 0 8 L
+end TR
+start L
+End L at 3 3 L
+end L
+start R
+End R at 3 6 L
+end R
+start BL
+End BL at 5 3 L
+end BL
+start B
+End B at 4 5 L
+end B
+start BR
+End BR at 4 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 6 (L)
+start TL
+End TL at 1 4 L
+end TL
+start Top
+End Top at 1 6 L
+end Top
+start TR
+End TR at 2 7 L
+end TR
+start L
+End L at 3 5 L
+end L
+start R
+End R at 3 8 L
+end R
+start BL
+End BL at 4 5 L
+end BL
+start B
+End B at 4 6 L
+end B
+start BR
+End BR at 5 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 8 (L)
+start TL
+End TL at 2 7 L
+end TL
+start Top
+End Top at 1 8 L
+end Top
+start TR
+end TR
+start L
+End L at 3 6 L
+end L
+start R
+End R at 3 9 L
+end R
+start BL
+End BL at 5 6 L
+end BL
+start B
+End B at 4 8 L
+end B
+start BR
+End BR at 4 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 9 (L)
+start TL
+End TL at 0 6 L
+end TL
+start Top
+End Top at 1 9 L
+end Top
+start TR
+end TR
+start L
+End L at 3 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 8 L
+end BL
+start B
+End B at 4 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 3 0 L
+end Top
+start TR
+End TR at 3 1 L
+end TR
+start L
+end L
+start R
+End R at 4 2 L
+end R
+start BL
+end BL
+start B
+End B at 5 0 L
+end B
+start BR
+End BR at 6 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 2 (L)
+start TL
+End TL at 3 1 L
+end TL
+start Top
+End Top at 3 2 L
+end Top
+start TR
+End TR at 3 3 L
+end TR
+start L
+End L at 4 0 L
+end L
+start R
+End R at 4 3 L
+end R
+start BL
+end BL
+start B
+End B at 5 2 L
+end B
+start BR
+End BR at 5 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 3 (L)
+start TL
+End TL at 3 2 L
+end TL
+start Top
+End Top at 3 3 L
+end Top
+start TR
+End TR at 1 6 L
+end TR
+start L
+End L at 4 2 L
+end L
+start R
+End R at 4 5 L
+end R
+start BL
+End BL at 5 2 L
+end BL
+start B
+End B at 5 3 L
+end B
+start BR
+End BR at 5 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 5 (L)
+start TL
+End TL at 1 2 L
+end TL
+start Top
+End Top at 3 5 L
+end Top
+start TR
+End TR at 3 6 L
+end TR
+start L
+End L at 4 3 L
+end L
+start R
+End R at 4 6 L
+end R
+start BL
+End BL at 5 4 L
+end BL
+start B
+End B at 5 5 L
+end B
+start BR
+End BR at 5 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 6 (L)
+start TL
+End TL at 3 5 L
+end TL
+start Top
+End Top at 3 6 L
+end Top
+start TR
+End TR at 1 9 L
+end TR
+start L
+End L at 4 5 L
+end L
+start R
+End R at 4 8 L
+end R
+start BL
+End BL at 5 5 L
+end BL
+start B
+End B at 5 6 L
+end B
+start BR
+End BR at 7 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 8 (L)
+start TL
+End TL at 1 5 L
+end TL
+start Top
+End Top at 3 8 L
+end Top
+start TR
+End TR at 3 9 L
+end TR
+start L
+End L at 4 6 L
+end L
+start R
+End R at 4 9 L
+end R
+start BL
+End BL at 7 5 L
+end BL
+start B
+End B at 5 8 L
+end B
+start BR
+End BR at 5 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 9 (L)
+start TL
+End TL at 3 8 L
+end TL
+start Top
+End Top at 3 9 L
+end Top
+start TR
+end TR
+start L
+End L at 4 8 L
+end L
+start R
+end R
+start BL
+End BL at 5 8 L
+end BL
+start B
+End B at 5 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 4 0 L
+end Top
+start TR
+End TR at 3 2 L
+end TR
+start L
+end L
+start R
+End R at 5 2 L
+end R
+start BL
+end BL
+start B
+End B at 7 0 L
+end B
+start BR
+End BR at 7 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 2 (L)
+start TL
+End TL at 3 0 L
+end TL
+start Top
+End Top at 4 2 L
+end Top
+start TR
+End TR at 4 3 L
+end TR
+start L
+End L at 5 0 L
+end L
+start R
+End R at 5 3 L
+end R
+start BL
+End BL at 7 0 L
+end BL
+start B
+End B at 6 2 L
+end B
+start BR
+End BR at 7 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 3 (L)
+start TL
+End TL at 4 2 L
+end TL
+start Top
+End Top at 4 3 L
+end Top
+start TR
+End TR at 3 5 L
+end TR
+start L
+End L at 5 2 L
+end L
+start R
+End R at 5 4 L
+end R
+start BL
+End BL at 6 2 L
+end BL
+start B
+End B at 7 3 L
+end B
+start BR
+End BR at 6 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 4 (L)
+start TL
+End TL at 4 3 L
+end TL
+start Top
+End Top at 2 4 L
+end Top
+start TR
+End TR at 4 5 L
+end TR
+start L
+End L at 5 3 L
+end L
+start R
+End R at 5 5 L
+end R
+start BL
+End BL at 7 2 L
+end BL
+start B
+End B at 6 4 L
+end B
+start BR
+End BR at 7 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 5 (L)
+start TL
+End TL at 3 3 L
+end TL
+start Top
+End Top at 4 5 L
+end Top
+start TR
+End TR at 4 6 L
+end TR
+start L
+End L at 5 4 L
+end L
+start R
+End R at 5 6 L
+end R
+start BL
+End BL at 6 4 L
+end BL
+start B
+End B at 7 5 L
+end B
+start BR
+End BR at 7 7 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 6 (L)
+start TL
+End TL at 4 5 L
+end TL
+start Top
+End Top at 4 6 L
+end Top
+start TR
+End TR at 3 8 L
+end TR
+start L
+End L at 5 5 L
+end L
+start R
+End R at 5 8 L
+end R
+start BL
+End BL at 7 4 L
+end BL
+start B
+End B at 7 6 L
+end B
+start BR
+End BR at 7 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 8 (L)
+start TL
+End TL at 3 6 L
+end TL
+start Top
+End Top at 4 8 L
+end Top
+start TR
+End TR at 4 9 L
+end TR
+start L
+End L at 5 6 L
+end L
+start R
+End R at 5 9 L
+end R
+start BL
+End BL at 7 6 L
+end BL
+start B
+End B at 7 8 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 9 (L)
+start TL
+End TL at 4 8 L
+end TL
+start Top
+End Top at 4 9 L
+end Top
+start TR
+end TR
+start L
+End L at 5 8 L
+end L
+start R
+end R
+start BL
+End BL at 7 7 L
+end BL
+start B
+End B at 7 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 6, x 2 (L)
+start TL
+End TL at 4 0 L
+end TL
+start Top
+End Top at 5 2 L
+end Top
+start TR
+End TR at 5 3 L
+end TR
+start L
+end L
+start R
+End R at 6 4 L
+end R
+start BL
+End BL at 7 1 L
+end BL
+start B
+End B at 7 2 L
+end B
+start BR
+End BR at 7 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 6, x 4 (L)
+start TL
+End TL at 5 3 L
+end TL
+start Top
+End Top at 5 4 L
+end Top
+start TR
+End TR at 5 5 L
+end TR
+start L
+End L at 6 2 L
+end L
+start R
+end R
+start BL
+End BL at 7 3 L
+end BL
+start B
+End B at 7 4 L
+end B
+start BR
+End BR at 7 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 5 0 L
+end Top
+start TR
+End TR at 5 2 L
+end TR
+start L
+end L
+start R
+End R at 7 1 L
+end R
+start BL
+end BL
+start B
+End B at 8 0 L
+end B
+start BR
+End BR at 9 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 1 (L)
+start TL
+end TL
+start Top
+End Top at 3 1 L
+end Top
+start TR
+End TR at 6 2 L
+end TR
+start L
+End L at 7 0 L
+end L
+start R
+End R at 7 2 L
+end R
+start BL
+End BL at 8 0 L
+end BL
+start B
+end B
+start BR
+End BR at 8 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 2 (L)
+start TL
+End TL at 5 0 L
+end TL
+start Top
+End Top at 6 2 L
+end Top
+start TR
+End TR at 5 4 L
+end TR
+start L
+End L at 7 1 L
+end L
+start R
+End R at 7 3 L
+end R
+start BL
+End BL at 9 0 L
+end BL
+start B
+End B at 8 2 L
+end B
+start BR
+End BR at 8 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 3 (L)
+start TL
+End TL at 6 2 L
+end TL
+start Top
+End Top at 5 3 L
+end Top
+start TR
+End TR at 6 4 L
+end TR
+start L
+End L at 7 2 L
+end L
+start R
+End R at 7 4 L
+end R
+start BL
+End BL at 8 2 L
+end BL
+start B
+End B at 8 3 L
+end B
+start BR
+End BR at 8 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 4 (L)
+start TL
+End TL at 5 2 L
+end TL
+start Top
+End Top at 6 4 L
+end Top
+start TR
+End TR at 5 6 L
+end TR
+start L
+End L at 7 3 L
+end L
+start R
+End R at 7 5 L
+end R
+start BL
+End BL at 8 3 L
+end BL
+start B
+End B at 8 4 L
+end B
+start BR
+End BR at 8 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 5 (L)
+start TL
+End TL at 6 4 L
+end TL
+start Top
+End Top at 5 5 L
+end Top
+start TR
+End TR at 4 8 L
+end TR
+start L
+End L at 7 4 L
+end L
+start R
+End R at 7 6 L
+end R
+start BL
+End BL at 8 4 L
+end BL
+start B
+End B at 8 5 L
+end B
+start BR
+End BR at 8 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 6 (L)
+start TL
+End TL at 5 4 L
+end TL
+start Top
+End Top at 5 6 L
+end Top
+start TR
+End TR at 5 8 L
+end TR
+start L
+End L at 7 5 L
+end L
+start R
+End R at 7 7 L
+end R
+start BL
+End BL at 8 5 L
+end BL
+start B
+End B at 8 6 L
+end B
+start BR
+End BR at 8 7 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 7 (L)
+start TL
+End TL at 5 5 L
+end TL
+start Top
+End Top at 2 7 L
+end Top
+start TR
+End TR at 5 9 L
+end TR
+start L
+End L at 7 6 L
+end L
+start R
+End R at 7 8 L
+end R
+start BL
+End BL at 8 6 L
+end BL
+start B
+End B at 8 7 L
+end B
+start BR
+End BR at 9 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 8 (L)
+start TL
+End TL at 5 6 L
+end TL
+start Top
+End Top at 5 8 L
+end Top
+start TR
+end TR
+start L
+End L at 7 7 L
+end L
+start R
+End R at 7 9 L
+end R
+start BL
+End BL at 8 7 L
+end BL
+start B
+End B at 9 8 L
+end B
+start BR
+End BR at 8 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 9 (L)
+start TL
+End TL at 4 6 L
+end TL
+start Top
+End Top at 5 9 L
+end Top
+start TR
+end TR
+start L
+End L at 7 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+End B at 8 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 7 0 L
+end Top
+start TR
+End TR at 7 1 L
+end TR
+start L
+end L
+start R
+End R at 8 2 L
+end R
+start BL
+end BL
+start B
+End B at 9 0 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 2 (L)
+start TL
+End TL at 7 1 L
+end TL
+start Top
+End Top at 7 2 L
+end Top
+start TR
+End TR at 7 3 L
+end TR
+start L
+End L at 8 0 L
+end L
+start R
+End R at 8 3 L
+end R
+start BL
+end BL
+start B
+End B at 9 2 L
+end B
+start BR
+End BR at 9 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 3 (L)
+start TL
+End TL at 7 2 L
+end TL
+start Top
+End Top at 7 3 L
+end Top
+start TR
+End TR at 7 4 L
+end TR
+start L
+End L at 8 2 L
+end L
+start R
+End R at 8 4 L
+end R
+start BL
+End BL at 9 2 L
+end BL
+start B
+End B at 9 3 L
+end B
+start BR
+End BR at 9 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 4 (L)
+start TL
+End TL at 7 3 L
+end TL
+start Top
+End Top at 7 4 L
+end Top
+start TR
+End TR at 7 5 L
+end TR
+start L
+End L at 8 3 L
+end L
+start R
+End R at 8 5 L
+end R
+start BL
+End BL at 9 3 L
+end BL
+start B
+End B at 9 4 L
+end B
+start BR
+End BR at 9 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 5 (L)
+start TL
+End TL at 7 4 L
+end TL
+start Top
+End Top at 7 5 L
+end Top
+start TR
+End TR at 7 6 L
+end TR
+start L
+End L at 8 4 L
+end L
+start R
+End R at 8 6 L
+end R
+start BL
+End BL at 9 4 L
+end BL
+start B
+End B at 9 5 L
+end B
+start BR
+End BR at 9 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 6 (L)
+start TL
+End TL at 7 5 L
+end TL
+start Top
+End Top at 7 6 L
+end Top
+start TR
+End TR at 7 7 L
+end TR
+start L
+End L at 8 5 L
+end L
+start R
+End R at 8 7 L
+end R
+start BL
+End BL at 9 5 L
+end BL
+start B
+End B at 9 6 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 7 (L)
+start TL
+End TL at 7 6 L
+end TL
+start Top
+End Top at 7 7 L
+end Top
+start TR
+End TR at 7 8 L
+end TR
+start L
+End L at 8 6 L
+end L
+start R
+End R at 8 9 L
+end R
+start BL
+End BL at 9 6 L
+end BL
+start B
+end B
+start BR
+End BR at 9 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 9 (L)
+start TL
+End TL at 7 8 L
+end TL
+start Top
+End Top at 7 9 L
+end Top
+start TR
+end TR
+start L
+End L at 8 7 L
+end L
+start R
+end R
+start BL
+End BL at 9 8 L
+end BL
+start B
+End B at 9 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 8 0 L
+end Top
+start TR
+End TR at 7 2 L
+end TR
+start L
+end L
+start R
+End R at 9 2 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 2 (L)
+start TL
+End TL at 7 0 L
+end TL
+start Top
+End Top at 8 2 L
+end Top
+start TR
+End TR at 8 3 L
+end TR
+start L
+End L at 9 0 L
+end L
+start R
+End R at 9 3 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 3 (L)
+start TL
+End TL at 8 2 L
+end TL
+start Top
+End Top at 8 3 L
+end Top
+start TR
+End TR at 8 4 L
+end TR
+start L
+End L at 9 2 L
+end L
+start R
+End R at 9 4 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 4 (L)
+start TL
+End TL at 8 3 L
+end TL
+start Top
+End Top at 8 4 L
+end Top
+start TR
+End TR at 8 5 L
+end TR
+start L
+End L at 9 3 L
+end L
+start R
+End R at 9 5 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 5 (L)
+start TL
+End TL at 8 4 L
+end TL
+start Top
+End Top at 8 5 L
+end Top
+start TR
+End TR at 8 6 L
+end TR
+start L
+End L at 9 4 L
+end L
+start R
+End R at 9 6 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 6 (L)
+start TL
+End TL at 8 5 L
+end TL
+start Top
+End Top at 8 6 L
+end Top
+start TR
+End TR at 8 7 L
+end TR
+start L
+End L at 9 5 L
+end L
+start R
+End R at 9 8 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 8 (L)
+start TL
+End TL at 8 7 L
+end TL
+start Top
+End Top at 7 8 L
+end Top
+start TR
+End TR at 8 9 L
+end TR
+start L
+End L at 9 6 L
+end L
+start R
+End R at 9 9 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 9 (L)
+start TL
+End TL at 7 7 L
+end TL
+start Top
+End Top at 8 9 L
+end Top
+start TR
+end TR
+start L
+End L at 9 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+#.##.##.##
+#######.##
+#.#.#..#..
+####.##.##
+#.##.##.##
+#.#####.##
+..#.#.....
+##########
+#.######.#
+#.#####.##
+
+
+**********************************
+====================================
+Current: y 0, x 0 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 0 2 #
+end R
+start BL
+end BL
+start B
+End B at 1 0 #
+end B
+start BR
+End BR at 1 1 #
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 0, x 2 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 0 #
+end L
+start R
+End R at 0 3 #
+end R
+start BL
+End BL at 1 1 #
+end BL
+start B
+End B at 1 2 #
+end B
+start BR
+End BR at 1 3 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 0, x 3 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 2 #
+end L
+start R
+End R at 0 5 #
+end R
+start BL
+End BL at 1 2 #
+end BL
+start B
+End B at 1 3 #
+end B
+start BR
+End BR at 1 4 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 0, x 5 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 3 #
+end L
+start R
+End R at 0 6 #
+end R
+start BL
+End BL at 1 4 #
+end BL
+start B
+End B at 1 5 #
+end B
+start BR
+End BR at 1 6 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 0, x 6 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 5 #
+end L
+start R
+End R at 0 8 #
+end R
+start BL
+End BL at 1 5 #
+end BL
+start B
+End B at 1 6 #
+end B
+start BR
+End BR at 3 9 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 0, x 8 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 6 #
+end L
+start R
+End R at 0 9 #
+end R
+start BL
+End BL at 3 5 #
+end BL
+start B
+End B at 1 8 #
+end B
+start BR
+End BR at 1 9 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 0, x 9 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 8 #
+end L
+start R
+end R
+start BL
+End BL at 1 8 #
+end BL
+start B
+End B at 1 9 #
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 1, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 0 0 #
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 1 1 #
+end R
+start BL
+end BL
+start B
+End B at 2 0 #
+end B
+start BR
+End BR at 3 2 #
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 1, x 1 (#)
+start TL
+End TL at 0 0 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 2 #
+end TR
+start L
+End L at 1 0 #
+end L
+start R
+End R at 1 2 #
+end R
+start BL
+End BL at 2 0 #
+end BL
+start B
+End B at 3 1 #
+end B
+start BR
+End BR at 2 2 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 1, x 2 (#)
+start TL
+end TL
+start Top
+End Top at 0 2 #
+end Top
+start TR
+End TR at 0 3 #
+end TR
+start L
+End L at 1 1 #
+end L
+start R
+End R at 1 3 #
+end R
+start BL
+End BL at 3 0 #
+end BL
+start B
+End B at 2 2 #
+end B
+start BR
+End BR at 4 5 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 1, x 3 (#)
+start TL
+End TL at 0 2 #
+end TL
+start Top
+End Top at 0 3 #
+end Top
+start TR
+end TR
+start L
+End L at 1 2 #
+end L
+start R
+End R at 1 4 #
+end R
+start BL
+End BL at 2 2 #
+end BL
+start B
+End B at 3 3 #
+end B
+start BR
+End BR at 2 4 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 1, x 4 (#)
+start TL
+End TL at 0 3 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 5 #
+end TR
+start L
+End L at 1 3 #
+end L
+start R
+End R at 1 5 #
+end R
+start BL
+End BL at 3 2 #
+end BL
+start B
+End B at 2 4 #
+end B
+start BR
+End BR at 3 6 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 1, x 5 (#)
+start TL
+end TL
+start Top
+End Top at 0 5 #
+end Top
+start TR
+End TR at 0 6 #
+end TR
+start L
+End L at 1 4 #
+end L
+start R
+End R at 1 6 #
+end R
+start BL
+End BL at 2 4 #
+end BL
+start B
+End B at 3 5 #
+end B
+start BR
+End BR at 4 8 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 1, x 6 (#)
+start TL
+End TL at 0 5 #
+end TL
+start Top
+End Top at 0 6 #
+end Top
+start TR
+end TR
+start L
+End L at 1 5 #
+end L
+start R
+End R at 1 8 #
+end R
+start BL
+End BL at 4 3 #
+end BL
+start B
+End B at 3 6 #
+end B
+start BR
+End BR at 2 7 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 1, x 8 (#)
+start TL
+end TL
+start Top
+End Top at 0 8 #
+end Top
+start TR
+End TR at 0 9 #
+end TR
+start L
+End L at 1 6 #
+end L
+start R
+End R at 1 9 #
+end R
+start BL
+End BL at 2 7 #
+end BL
+start B
+End B at 3 8 #
+end B
+start BR
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 1, x 9 (#)
+start TL
+End TL at 0 8 #
+end TL
+start Top
+End Top at 0 9 #
+end Top
+start TR
+end TR
+start L
+End L at 1 8 #
+end L
+start R
+end R
+start BL
+End BL at 4 6 #
+end BL
+start B
+End B at 3 9 #
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 2, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 1 0 #
+end Top
+start TR
+End TR at 1 1 #
+end TR
+start L
+end L
+start R
+End R at 2 2 #
+end R
+start BL
+end BL
+start B
+End B at 3 0 #
+end B
+start BR
+End BR at 3 1 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 2, x 2 (#)
+start TL
+End TL at 1 1 #
+end TL
+start Top
+End Top at 1 2 #
+end Top
+start TR
+End TR at 1 3 #
+end TR
+start L
+End L at 2 0 #
+end L
+start R
+End R at 2 4 #
+end R
+start BL
+End BL at 3 1 #
+end BL
+start B
+End B at 3 2 #
+end B
+start BR
+End BR at 3 3 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 2, x 4 (#)
+start TL
+End TL at 1 3 #
+end TL
+start Top
+End Top at 1 4 #
+end Top
+start TR
+End TR at 1 5 #
+end TR
+start L
+End L at 2 2 #
+end L
+start R
+End R at 2 7 #
+end R
+start BL
+End BL at 3 3 #
+end BL
+start B
+End B at 5 4 #
+end B
+start BR
+End BR at 3 5 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 2, x 7 (#)
+start TL
+End TL at 1 6 #
+end TL
+start Top
+end Top
+start TR
+End TR at 1 8 #
+end TR
+start L
+End L at 2 4 #
+end L
+start R
+end R
+start BL
+End BL at 3 6 #
+end BL
+start B
+End B at 7 7 #
+end B
+start BR
+End BR at 3 8 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 3, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 2 0 #
+end Top
+start TR
+End TR at 1 2 #
+end TR
+start L
+end L
+start R
+End R at 3 1 #
+end R
+start BL
+end BL
+start B
+End B at 4 0 #
+end B
+start BR
+End BR at 5 2 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 3, x 1 (#)
+start TL
+End TL at 2 0 #
+end TL
+start Top
+End Top at 1 1 #
+end Top
+start TR
+End TR at 2 2 #
+end TR
+start L
+End L at 3 0 #
+end L
+start R
+End R at 3 2 #
+end R
+start BL
+End BL at 4 0 #
+end BL
+start B
+End B at 7 1 #
+end B
+start BR
+End BR at 4 2 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 3, x 2 (#)
+start TL
+End TL at 1 0 #
+end TL
+start Top
+End Top at 2 2 #
+end Top
+start TR
+End TR at 1 4 #
+end TR
+start L
+End L at 3 1 #
+end L
+start R
+End R at 3 3 #
+end R
+start BL
+End BL at 5 0 #
+end BL
+start B
+End B at 4 2 #
+end B
+start BR
+End BR at 4 3 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 3, x 3 (#)
+start TL
+End TL at 2 2 #
+end TL
+start Top
+End Top at 1 3 #
+end Top
+start TR
+End TR at 2 4 #
+end TR
+start L
+End L at 3 2 #
+end L
+start R
+End R at 3 5 #
+end R
+start BL
+End BL at 4 2 #
+end BL
+start B
+End B at 4 3 #
+end B
+start BR
+End BR at 5 5 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 3, x 5 (#)
+start TL
+End TL at 2 4 #
+end TL
+start Top
+End Top at 1 5 #
+end Top
+start TR
+End TR at 0 8 #
+end TR
+start L
+End L at 3 3 #
+end L
+start R
+End R at 3 6 #
+end R
+start BL
+End BL at 5 3 #
+end BL
+start B
+End B at 4 5 #
+end B
+start BR
+End BR at 4 6 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 3, x 6 (#)
+start TL
+End TL at 1 4 #
+end TL
+start Top
+End Top at 1 6 #
+end Top
+start TR
+End TR at 2 7 #
+end TR
+start L
+End L at 3 5 #
+end L
+start R
+End R at 3 8 #
+end R
+start BL
+End BL at 4 5 #
+end BL
+start B
+End B at 4 6 #
+end B
+start BR
+End BR at 5 8 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 3, x 8 (#)
+start TL
+End TL at 2 7 #
+end TL
+start Top
+End Top at 1 8 #
+end Top
+start TR
+end TR
+start L
+End L at 3 6 #
+end L
+start R
+End R at 3 9 #
+end R
+start BL
+End BL at 5 6 #
+end BL
+start B
+End B at 4 8 #
+end B
+start BR
+End BR at 4 9 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 3, x 9 (#)
+start TL
+End TL at 0 6 #
+end TL
+start Top
+End Top at 1 9 #
+end Top
+start TR
+end TR
+start L
+End L at 3 8 #
+end L
+start R
+end R
+start BL
+End BL at 4 8 #
+end BL
+start B
+End B at 4 9 #
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 4, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 3 0 #
+end Top
+start TR
+End TR at 3 1 #
+end TR
+start L
+end L
+start R
+End R at 4 2 #
+end R
+start BL
+end BL
+start B
+End B at 5 0 #
+end B
+start BR
+End BR at 6 2 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 4, x 2 (#)
+start TL
+End TL at 3 1 #
+end TL
+start Top
+End Top at 3 2 #
+end Top
+start TR
+End TR at 3 3 #
+end TR
+start L
+End L at 4 0 #
+end L
+start R
+End R at 4 3 #
+end R
+start BL
+end BL
+start B
+End B at 5 2 #
+end B
+start BR
+End BR at 5 3 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 4, x 3 (#)
+start TL
+End TL at 3 2 #
+end TL
+start Top
+End Top at 3 3 #
+end Top
+start TR
+End TR at 1 6 #
+end TR
+start L
+End L at 4 2 #
+end L
+start R
+End R at 4 5 #
+end R
+start BL
+End BL at 5 2 #
+end BL
+start B
+End B at 5 3 #
+end B
+start BR
+End BR at 5 4 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 4, x 5 (#)
+start TL
+End TL at 1 2 #
+end TL
+start Top
+End Top at 3 5 #
+end Top
+start TR
+End TR at 3 6 #
+end TR
+start L
+End L at 4 3 #
+end L
+start R
+End R at 4 6 #
+end R
+start BL
+End BL at 5 4 #
+end BL
+start B
+End B at 5 5 #
+end B
+start BR
+End BR at 5 6 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 4, x 6 (#)
+start TL
+End TL at 3 5 #
+end TL
+start Top
+End Top at 3 6 #
+end Top
+start TR
+End TR at 1 9 #
+end TR
+start L
+End L at 4 5 #
+end L
+start R
+End R at 4 8 #
+end R
+start BL
+End BL at 5 5 #
+end BL
+start B
+End B at 5 6 #
+end B
+start BR
+End BR at 7 9 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 4, x 8 (#)
+start TL
+End TL at 1 5 #
+end TL
+start Top
+End Top at 3 8 #
+end Top
+start TR
+End TR at 3 9 #
+end TR
+start L
+End L at 4 6 #
+end L
+start R
+End R at 4 9 #
+end R
+start BL
+End BL at 7 5 #
+end BL
+start B
+End B at 5 8 #
+end B
+start BR
+End BR at 5 9 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 4, x 9 (#)
+start TL
+End TL at 3 8 #
+end TL
+start Top
+End Top at 3 9 #
+end Top
+start TR
+end TR
+start L
+End L at 4 8 #
+end L
+start R
+end R
+start BL
+End BL at 5 8 #
+end BL
+start B
+End B at 5 9 #
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 5, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 4 0 #
+end Top
+start TR
+End TR at 3 2 #
+end TR
+start L
+end L
+start R
+End R at 5 2 #
+end R
+start BL
+end BL
+start B
+End B at 7 0 #
+end B
+start BR
+End BR at 7 2 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 5, x 2 (#)
+start TL
+End TL at 3 0 #
+end TL
+start Top
+End Top at 4 2 #
+end Top
+start TR
+End TR at 4 3 #
+end TR
+start L
+End L at 5 0 #
+end L
+start R
+End R at 5 3 #
+end R
+start BL
+End BL at 7 0 #
+end BL
+start B
+End B at 6 2 #
+end B
+start BR
+End BR at 7 4 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 5, x 3 (#)
+start TL
+End TL at 4 2 #
+end TL
+start Top
+End Top at 4 3 #
+end Top
+start TR
+End TR at 3 5 #
+end TR
+start L
+End L at 5 2 #
+end L
+start R
+End R at 5 4 #
+end R
+start BL
+End BL at 6 2 #
+end BL
+start B
+End B at 7 3 #
+end B
+start BR
+End BR at 6 4 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 5, x 4 (#)
+start TL
+End TL at 4 3 #
+end TL
+start Top
+End Top at 2 4 #
+end Top
+start TR
+End TR at 4 5 #
+end TR
+start L
+End L at 5 3 #
+end L
+start R
+End R at 5 5 #
+end R
+start BL
+End BL at 7 2 #
+end BL
+start B
+End B at 6 4 #
+end B
+start BR
+End BR at 7 6 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 5, x 5 (#)
+start TL
+End TL at 3 3 #
+end TL
+start Top
+End Top at 4 5 #
+end Top
+start TR
+End TR at 4 6 #
+end TR
+start L
+End L at 5 4 #
+end L
+start R
+End R at 5 6 #
+end R
+start BL
+End BL at 6 4 #
+end BL
+start B
+End B at 7 5 #
+end B
+start BR
+End BR at 7 7 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 5, x 6 (#)
+start TL
+End TL at 4 5 #
+end TL
+start Top
+End Top at 4 6 #
+end Top
+start TR
+End TR at 3 8 #
+end TR
+start L
+End L at 5 5 #
+end L
+start R
+End R at 5 8 #
+end R
+start BL
+End BL at 7 4 #
+end BL
+start B
+End B at 7 6 #
+end B
+start BR
+End BR at 7 8 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 5, x 8 (#)
+start TL
+End TL at 3 6 #
+end TL
+start Top
+End Top at 4 8 #
+end Top
+start TR
+End TR at 4 9 #
+end TR
+start L
+End L at 5 6 #
+end L
+start R
+End R at 5 9 #
+end R
+start BL
+End BL at 7 6 #
+end BL
+start B
+End B at 7 8 #
+end B
+start BR
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 5, x 9 (#)
+start TL
+End TL at 4 8 #
+end TL
+start Top
+End Top at 4 9 #
+end Top
+start TR
+end TR
+start L
+End L at 5 8 #
+end L
+start R
+end R
+start BL
+End BL at 7 7 #
+end BL
+start B
+End B at 7 9 #
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 6, x 2 (#)
+start TL
+End TL at 4 0 #
+end TL
+start Top
+End Top at 5 2 #
+end Top
+start TR
+End TR at 5 3 #
+end TR
+start L
+end L
+start R
+End R at 6 4 #
+end R
+start BL
+End BL at 7 1 #
+end BL
+start B
+End B at 7 2 #
+end B
+start BR
+End BR at 7 3 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 6, x 4 (#)
+start TL
+End TL at 5 3 #
+end TL
+start Top
+End Top at 5 4 #
+end Top
+start TR
+End TR at 5 5 #
+end TR
+start L
+End L at 6 2 #
+end L
+start R
+end R
+start BL
+End BL at 7 3 #
+end BL
+start B
+End B at 7 4 #
+end B
+start BR
+End BR at 7 5 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 7, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 5 0 #
+end Top
+start TR
+End TR at 5 2 #
+end TR
+start L
+end L
+start R
+End R at 7 1 #
+end R
+start BL
+end BL
+start B
+End B at 8 0 #
+end B
+start BR
+End BR at 9 2 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 7, x 1 (#)
+start TL
+end TL
+start Top
+End Top at 3 1 #
+end Top
+start TR
+End TR at 6 2 #
+end TR
+start L
+End L at 7 0 #
+end L
+start R
+End R at 7 2 #
+end R
+start BL
+End BL at 8 0 #
+end BL
+start B
+end B
+start BR
+End BR at 8 2 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 7, x 2 (#)
+start TL
+End TL at 5 0 #
+end TL
+start Top
+End Top at 6 2 #
+end Top
+start TR
+End TR at 5 4 #
+end TR
+start L
+End L at 7 1 #
+end L
+start R
+End R at 7 3 #
+end R
+start BL
+End BL at 9 0 #
+end BL
+start B
+End B at 8 2 #
+end B
+start BR
+End BR at 8 3 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 7, x 3 (#)
+start TL
+End TL at 6 2 #
+end TL
+start Top
+End Top at 5 3 #
+end Top
+start TR
+End TR at 6 4 #
+end TR
+start L
+End L at 7 2 #
+end L
+start R
+End R at 7 4 #
+end R
+start BL
+End BL at 8 2 #
+end BL
+start B
+End B at 8 3 #
+end B
+start BR
+End BR at 8 4 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 7, x 4 (#)
+start TL
+End TL at 5 2 #
+end TL
+start Top
+End Top at 6 4 #
+end Top
+start TR
+End TR at 5 6 #
+end TR
+start L
+End L at 7 3 #
+end L
+start R
+End R at 7 5 #
+end R
+start BL
+End BL at 8 3 #
+end BL
+start B
+End B at 8 4 #
+end B
+start BR
+End BR at 8 5 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 7, x 5 (#)
+start TL
+End TL at 6 4 #
+end TL
+start Top
+End Top at 5 5 #
+end Top
+start TR
+End TR at 4 8 #
+end TR
+start L
+End L at 7 4 #
+end L
+start R
+End R at 7 6 #
+end R
+start BL
+End BL at 8 4 #
+end BL
+start B
+End B at 8 5 #
+end B
+start BR
+End BR at 8 6 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 7, x 6 (#)
+start TL
+End TL at 5 4 #
+end TL
+start Top
+End Top at 5 6 #
+end Top
+start TR
+End TR at 5 8 #
+end TR
+start L
+End L at 7 5 #
+end L
+start R
+End R at 7 7 #
+end R
+start BL
+End BL at 8 5 #
+end BL
+start B
+End B at 8 6 #
+end B
+start BR
+End BR at 8 7 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 7, x 7 (#)
+start TL
+End TL at 5 5 #
+end TL
+start Top
+End Top at 2 7 #
+end Top
+start TR
+End TR at 5 9 #
+end TR
+start L
+End L at 7 6 #
+end L
+start R
+End R at 7 8 #
+end R
+start BL
+End BL at 8 6 #
+end BL
+start B
+End B at 8 7 #
+end B
+start BR
+End BR at 9 9 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 7, x 8 (#)
+start TL
+End TL at 5 6 #
+end TL
+start Top
+End Top at 5 8 #
+end Top
+start TR
+end TR
+start L
+End L at 7 7 #
+end L
+start R
+End R at 7 9 #
+end R
+start BL
+End BL at 8 7 #
+end BL
+start B
+End B at 9 8 #
+end B
+start BR
+End BR at 8 9 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 7, x 9 (#)
+start TL
+End TL at 4 6 #
+end TL
+start Top
+End Top at 5 9 #
+end Top
+start TR
+end TR
+start L
+End L at 7 8 #
+end L
+start R
+end R
+start BL
+end BL
+start B
+End B at 8 9 #
+end B
+start BR
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 8, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 7 0 #
+end Top
+start TR
+End TR at 7 1 #
+end TR
+start L
+end L
+start R
+End R at 8 2 #
+end R
+start BL
+end BL
+start B
+End B at 9 0 #
+end B
+start BR
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 8, x 2 (#)
+start TL
+End TL at 7 1 #
+end TL
+start Top
+End Top at 7 2 #
+end Top
+start TR
+End TR at 7 3 #
+end TR
+start L
+End L at 8 0 #
+end L
+start R
+End R at 8 3 #
+end R
+start BL
+end BL
+start B
+End B at 9 2 #
+end B
+start BR
+End BR at 9 3 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 8, x 3 (#)
+start TL
+End TL at 7 2 #
+end TL
+start Top
+End Top at 7 3 #
+end Top
+start TR
+End TR at 7 4 #
+end TR
+start L
+End L at 8 2 #
+end L
+start R
+End R at 8 4 #
+end R
+start BL
+End BL at 9 2 #
+end BL
+start B
+End B at 9 3 #
+end B
+start BR
+End BR at 9 4 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 8, x 4 (#)
+start TL
+End TL at 7 3 #
+end TL
+start Top
+End Top at 7 4 #
+end Top
+start TR
+End TR at 7 5 #
+end TR
+start L
+End L at 8 3 #
+end L
+start R
+End R at 8 5 #
+end R
+start BL
+End BL at 9 3 #
+end BL
+start B
+End B at 9 4 #
+end B
+start BR
+End BR at 9 5 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 8, x 5 (#)
+start TL
+End TL at 7 4 #
+end TL
+start Top
+End Top at 7 5 #
+end Top
+start TR
+End TR at 7 6 #
+end TR
+start L
+End L at 8 4 #
+end L
+start R
+End R at 8 6 #
+end R
+start BL
+End BL at 9 4 #
+end BL
+start B
+End B at 9 5 #
+end B
+start BR
+End BR at 9 6 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 8, x 6 (#)
+start TL
+End TL at 7 5 #
+end TL
+start Top
+End Top at 7 6 #
+end Top
+start TR
+End TR at 7 7 #
+end TR
+start L
+End L at 8 5 #
+end L
+start R
+End R at 8 7 #
+end R
+start BL
+End BL at 9 5 #
+end BL
+start B
+End B at 9 6 #
+end B
+start BR
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 8, x 7 (#)
+start TL
+End TL at 7 6 #
+end TL
+start Top
+End Top at 7 7 #
+end Top
+start TR
+End TR at 7 8 #
+end TR
+start L
+End L at 8 6 #
+end L
+start R
+End R at 8 9 #
+end R
+start BL
+End BL at 9 6 #
+end BL
+start B
+end B
+start BR
+End BR at 9 8 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 8, x 9 (#)
+start TL
+End TL at 7 8 #
+end TL
+start Top
+End Top at 7 9 #
+end Top
+start TR
+end TR
+start L
+End L at 8 7 #
+end L
+start R
+end R
+start BL
+End BL at 9 8 #
+end BL
+start B
+End B at 9 9 #
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 8 0 #
+end Top
+start TR
+End TR at 7 2 #
+end TR
+start L
+end L
+start R
+End R at 9 2 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 9, x 2 (#)
+start TL
+End TL at 7 0 #
+end TL
+start Top
+End Top at 8 2 #
+end Top
+start TR
+End TR at 8 3 #
+end TR
+start L
+End L at 9 0 #
+end L
+start R
+End R at 9 3 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 3 (#)
+start TL
+End TL at 8 2 #
+end TL
+start Top
+End Top at 8 3 #
+end Top
+start TR
+End TR at 8 4 #
+end TR
+start L
+End L at 9 2 #
+end L
+start R
+End R at 9 4 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 4 (#)
+start TL
+End TL at 8 3 #
+end TL
+start Top
+End Top at 8 4 #
+end Top
+start TR
+End TR at 8 5 #
+end TR
+start L
+End L at 9 3 #
+end L
+start R
+End R at 9 5 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 5 (#)
+start TL
+End TL at 8 4 #
+end TL
+start Top
+End Top at 8 5 #
+end Top
+start TR
+End TR at 8 6 #
+end TR
+start L
+End L at 9 4 #
+end L
+start R
+End R at 9 6 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 6 (#)
+start TL
+End TL at 8 5 #
+end TL
+start Top
+End Top at 8 6 #
+end Top
+start TR
+End TR at 8 7 #
+end TR
+start L
+End L at 9 5 #
+end L
+start R
+End R at 9 8 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 8 (#)
+start TL
+End TL at 8 7 #
+end TL
+start Top
+End Top at 7 8 #
+end Top
+start TR
+End TR at 8 9 #
+end TR
+start L
+End L at 9 6 #
+end L
+start R
+End R at 9 9 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 9 (#)
+start TL
+End TL at 7 7 #
+end TL
+start Top
+End Top at 8 9 #
+end Top
+start TR
+end TR
+start L
+End L at 9 8 #
+end L
+start R
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+#.LL.LL.L#
+#LLLLLL.LL
+L.L.L..L..
+LLLL.LL.LL
+L.LL.LL.LL
+L.LLLLL.LL
+..L.L.....
+LLLLLLLLL#
+#.LLLLLL.L
+#.LLLLL.L#
+
+
+**********************************
+====================================
+Current: y 0, x 0 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 0 2 L
+end R
+start BL
+end BL
+start B
+End B at 1 0 #
+end B
+start BR
+End BR at 1 1 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 0, x 2 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 0 #
+end L
+start R
+End R at 0 3 L
+end R
+start BL
+End BL at 1 1 L
+end BL
+start B
+End B at 1 2 L
+end B
+start BR
+End BR at 1 3 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 0, x 3 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 2 L
+end L
+start R
+End R at 0 5 L
+end R
+start BL
+End BL at 1 2 L
+end BL
+start B
+End B at 1 3 L
+end B
+start BR
+End BR at 1 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 5 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 3 L
+end L
+start R
+End R at 0 6 L
+end R
+start BL
+End BL at 1 4 L
+end BL
+start B
+End B at 1 5 L
+end B
+start BR
+End BR at 1 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 6 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 5 L
+end L
+start R
+End R at 0 8 L
+end R
+start BL
+End BL at 1 5 L
+end BL
+start B
+End B at 1 6 L
+end B
+start BR
+End BR at 3 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 0, x 8 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 6 L
+end L
+start R
+End R at 0 9 #
+end R
+start BL
+End BL at 3 5 L
+end BL
+start B
+End B at 1 8 L
+end B
+start BR
+End BR at 1 9 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 0, x 9 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 8 L
+end L
+start R
+end R
+start BL
+End BL at 1 8 L
+end BL
+start B
+End B at 1 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 1, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 0 0 #
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 1 1 L
+end R
+start BL
+end BL
+start B
+End B at 2 0 L
+end B
+start BR
+End BR at 3 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 1, x 1 (L)
+start TL
+End TL at 0 0 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 2 L
+end TR
+start L
+End L at 1 0 #
+end L
+start R
+End R at 1 2 L
+end R
+start BL
+End BL at 2 0 L
+end BL
+start B
+End B at 3 1 L
+end B
+start BR
+End BR at 2 2 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 2 (L)
+start TL
+end TL
+start Top
+End Top at 0 2 L
+end Top
+start TR
+End TR at 0 3 L
+end TR
+start L
+End L at 1 1 L
+end L
+start R
+End R at 1 3 L
+end R
+start BL
+End BL at 3 0 L
+end BL
+start B
+End B at 2 2 L
+end B
+start BR
+End BR at 4 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 3 (L)
+start TL
+End TL at 0 2 L
+end TL
+start Top
+End Top at 0 3 L
+end Top
+start TR
+end TR
+start L
+End L at 1 2 L
+end L
+start R
+End R at 1 4 L
+end R
+start BL
+End BL at 2 2 L
+end BL
+start B
+End B at 3 3 L
+end B
+start BR
+End BR at 2 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 4 (L)
+start TL
+End TL at 0 3 L
+end TL
+start Top
+end Top
+start TR
+End TR at 0 5 L
+end TR
+start L
+End L at 1 3 L
+end L
+start R
+End R at 1 5 L
+end R
+start BL
+End BL at 3 2 L
+end BL
+start B
+End B at 2 4 L
+end B
+start BR
+End BR at 3 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 5 (L)
+start TL
+end TL
+start Top
+End Top at 0 5 L
+end Top
+start TR
+End TR at 0 6 L
+end TR
+start L
+End L at 1 4 L
+end L
+start R
+End R at 1 6 L
+end R
+start BL
+End BL at 2 4 L
+end BL
+start B
+End B at 3 5 L
+end B
+start BR
+End BR at 4 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 6 (L)
+start TL
+End TL at 0 5 L
+end TL
+start Top
+End Top at 0 6 L
+end Top
+start TR
+end TR
+start L
+End L at 1 5 L
+end L
+start R
+End R at 1 8 L
+end R
+start BL
+End BL at 4 3 L
+end BL
+start B
+End B at 3 6 L
+end B
+start BR
+End BR at 2 7 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 1, x 8 (L)
+start TL
+end TL
+start Top
+End Top at 0 8 L
+end Top
+start TR
+End TR at 0 9 #
+end TR
+start L
+End L at 1 6 L
+end L
+start R
+End R at 1 9 L
+end R
+start BL
+End BL at 2 7 L
+end BL
+start B
+End B at 3 8 L
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 1, x 9 (L)
+start TL
+End TL at 0 8 L
+end TL
+start Top
+End Top at 0 9 #
+end Top
+start TR
+end TR
+start L
+End L at 1 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 6 L
+end BL
+start B
+End B at 3 9 L
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 2, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 1 0 #
+end Top
+start TR
+End TR at 1 1 L
+end TR
+start L
+end L
+start R
+End R at 2 2 L
+end R
+start BL
+end BL
+start B
+End B at 3 0 L
+end B
+start BR
+End BR at 3 1 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 2, x 2 (L)
+start TL
+End TL at 1 1 L
+end TL
+start Top
+End Top at 1 2 L
+end Top
+start TR
+End TR at 1 3 L
+end TR
+start L
+End L at 2 0 L
+end L
+start R
+End R at 2 4 L
+end R
+start BL
+End BL at 3 1 L
+end BL
+start B
+End B at 3 2 L
+end B
+start BR
+End BR at 3 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 2, x 4 (L)
+start TL
+End TL at 1 3 L
+end TL
+start Top
+End Top at 1 4 L
+end Top
+start TR
+End TR at 1 5 L
+end TR
+start L
+End L at 2 2 L
+end L
+start R
+End R at 2 7 L
+end R
+start BL
+End BL at 3 3 L
+end BL
+start B
+End B at 5 4 L
+end B
+start BR
+End BR at 3 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 2, x 7 (L)
+start TL
+End TL at 1 6 L
+end TL
+start Top
+end Top
+start TR
+End TR at 1 8 L
+end TR
+start L
+End L at 2 4 L
+end L
+start R
+end R
+start BL
+End BL at 3 6 L
+end BL
+start B
+End B at 7 7 L
+end B
+start BR
+End BR at 3 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 2 0 L
+end Top
+start TR
+End TR at 1 2 L
+end TR
+start L
+end L
+start R
+End R at 3 1 L
+end R
+start BL
+end BL
+start B
+End B at 4 0 L
+end B
+start BR
+End BR at 5 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 1 (L)
+start TL
+End TL at 2 0 L
+end TL
+start Top
+End Top at 1 1 L
+end Top
+start TR
+End TR at 2 2 L
+end TR
+start L
+End L at 3 0 L
+end L
+start R
+End R at 3 2 L
+end R
+start BL
+End BL at 4 0 L
+end BL
+start B
+End B at 7 1 L
+end B
+start BR
+End BR at 4 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 2 (L)
+start TL
+End TL at 1 0 #
+end TL
+start Top
+End Top at 2 2 L
+end Top
+start TR
+End TR at 1 4 L
+end TR
+start L
+End L at 3 1 L
+end L
+start R
+End R at 3 3 L
+end R
+start BL
+End BL at 5 0 L
+end BL
+start B
+End B at 4 2 L
+end B
+start BR
+End BR at 4 3 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 3, x 3 (L)
+start TL
+End TL at 2 2 L
+end TL
+start Top
+End Top at 1 3 L
+end Top
+start TR
+End TR at 2 4 L
+end TR
+start L
+End L at 3 2 L
+end L
+start R
+End R at 3 5 L
+end R
+start BL
+End BL at 4 2 L
+end BL
+start B
+End B at 4 3 L
+end B
+start BR
+End BR at 5 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 5 (L)
+start TL
+End TL at 2 4 L
+end TL
+start Top
+End Top at 1 5 L
+end Top
+start TR
+End TR at 0 8 L
+end TR
+start L
+End L at 3 3 L
+end L
+start R
+End R at 3 6 L
+end R
+start BL
+End BL at 5 3 L
+end BL
+start B
+End B at 4 5 L
+end B
+start BR
+End BR at 4 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 6 (L)
+start TL
+End TL at 1 4 L
+end TL
+start Top
+End Top at 1 6 L
+end Top
+start TR
+End TR at 2 7 L
+end TR
+start L
+End L at 3 5 L
+end L
+start R
+End R at 3 8 L
+end R
+start BL
+End BL at 4 5 L
+end BL
+start B
+End B at 4 6 L
+end B
+start BR
+End BR at 5 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 8 (L)
+start TL
+End TL at 2 7 L
+end TL
+start Top
+End Top at 1 8 L
+end Top
+start TR
+end TR
+start L
+End L at 3 6 L
+end L
+start R
+End R at 3 9 L
+end R
+start BL
+End BL at 5 6 L
+end BL
+start B
+End B at 4 8 L
+end B
+start BR
+End BR at 4 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 9 (L)
+start TL
+End TL at 0 6 L
+end TL
+start Top
+End Top at 1 9 L
+end Top
+start TR
+end TR
+start L
+End L at 3 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 8 L
+end BL
+start B
+End B at 4 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 3 0 L
+end Top
+start TR
+End TR at 3 1 L
+end TR
+start L
+end L
+start R
+End R at 4 2 L
+end R
+start BL
+end BL
+start B
+End B at 5 0 L
+end B
+start BR
+End BR at 6 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 2 (L)
+start TL
+End TL at 3 1 L
+end TL
+start Top
+End Top at 3 2 L
+end Top
+start TR
+End TR at 3 3 L
+end TR
+start L
+End L at 4 0 L
+end L
+start R
+End R at 4 3 L
+end R
+start BL
+end BL
+start B
+End B at 5 2 L
+end B
+start BR
+End BR at 5 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 3 (L)
+start TL
+End TL at 3 2 L
+end TL
+start Top
+End Top at 3 3 L
+end Top
+start TR
+End TR at 1 6 L
+end TR
+start L
+End L at 4 2 L
+end L
+start R
+End R at 4 5 L
+end R
+start BL
+End BL at 5 2 L
+end BL
+start B
+End B at 5 3 L
+end B
+start BR
+End BR at 5 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 5 (L)
+start TL
+End TL at 1 2 L
+end TL
+start Top
+End Top at 3 5 L
+end Top
+start TR
+End TR at 3 6 L
+end TR
+start L
+End L at 4 3 L
+end L
+start R
+End R at 4 6 L
+end R
+start BL
+End BL at 5 4 L
+end BL
+start B
+End B at 5 5 L
+end B
+start BR
+End BR at 5 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 6 (L)
+start TL
+End TL at 3 5 L
+end TL
+start Top
+End Top at 3 6 L
+end Top
+start TR
+End TR at 1 9 L
+end TR
+start L
+End L at 4 5 L
+end L
+start R
+End R at 4 8 L
+end R
+start BL
+End BL at 5 5 L
+end BL
+start B
+End B at 5 6 L
+end B
+start BR
+End BR at 7 9 #
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 4, x 8 (L)
+start TL
+End TL at 1 5 L
+end TL
+start Top
+End Top at 3 8 L
+end Top
+start TR
+End TR at 3 9 L
+end TR
+start L
+End L at 4 6 L
+end L
+start R
+End R at 4 9 L
+end R
+start BL
+End BL at 7 5 L
+end BL
+start B
+End B at 5 8 L
+end B
+start BR
+End BR at 5 9 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 9 (L)
+start TL
+End TL at 3 8 L
+end TL
+start Top
+End Top at 3 9 L
+end Top
+start TR
+end TR
+start L
+End L at 4 8 L
+end L
+start R
+end R
+start BL
+End BL at 5 8 L
+end BL
+start B
+End B at 5 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 4 0 L
+end Top
+start TR
+End TR at 3 2 L
+end TR
+start L
+end L
+start R
+End R at 5 2 L
+end R
+start BL
+end BL
+start B
+End B at 7 0 L
+end B
+start BR
+End BR at 7 2 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 2 (L)
+start TL
+End TL at 3 0 L
+end TL
+start Top
+End Top at 4 2 L
+end Top
+start TR
+End TR at 4 3 L
+end TR
+start L
+End L at 5 0 L
+end L
+start R
+End R at 5 3 L
+end R
+start BL
+End BL at 7 0 L
+end BL
+start B
+End B at 6 2 L
+end B
+start BR
+End BR at 7 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 3 (L)
+start TL
+End TL at 4 2 L
+end TL
+start Top
+End Top at 4 3 L
+end Top
+start TR
+End TR at 3 5 L
+end TR
+start L
+End L at 5 2 L
+end L
+start R
+End R at 5 4 L
+end R
+start BL
+End BL at 6 2 L
+end BL
+start B
+End B at 7 3 L
+end B
+start BR
+End BR at 6 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 4 (L)
+start TL
+End TL at 4 3 L
+end TL
+start Top
+End Top at 2 4 L
+end Top
+start TR
+End TR at 4 5 L
+end TR
+start L
+End L at 5 3 L
+end L
+start R
+End R at 5 5 L
+end R
+start BL
+End BL at 7 2 L
+end BL
+start B
+End B at 6 4 L
+end B
+start BR
+End BR at 7 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 5 (L)
+start TL
+End TL at 3 3 L
+end TL
+start Top
+End Top at 4 5 L
+end Top
+start TR
+End TR at 4 6 L
+end TR
+start L
+End L at 5 4 L
+end L
+start R
+End R at 5 6 L
+end R
+start BL
+End BL at 6 4 L
+end BL
+start B
+End B at 7 5 L
+end B
+start BR
+End BR at 7 7 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 6 (L)
+start TL
+End TL at 4 5 L
+end TL
+start Top
+End Top at 4 6 L
+end Top
+start TR
+End TR at 3 8 L
+end TR
+start L
+End L at 5 5 L
+end L
+start R
+End R at 5 8 L
+end R
+start BL
+End BL at 7 4 L
+end BL
+start B
+End B at 7 6 L
+end B
+start BR
+End BR at 7 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 8 (L)
+start TL
+End TL at 3 6 L
+end TL
+start Top
+End Top at 4 8 L
+end Top
+start TR
+End TR at 4 9 L
+end TR
+start L
+End L at 5 6 L
+end L
+start R
+End R at 5 9 L
+end R
+start BL
+End BL at 7 6 L
+end BL
+start B
+End B at 7 8 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 9 (L)
+start TL
+End TL at 4 8 L
+end TL
+start Top
+End Top at 4 9 L
+end Top
+start TR
+end TR
+start L
+End L at 5 8 L
+end L
+start R
+end R
+start BL
+End BL at 7 7 L
+end BL
+start B
+End B at 7 9 #
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 6, x 2 (L)
+start TL
+End TL at 4 0 L
+end TL
+start Top
+End Top at 5 2 L
+end Top
+start TR
+End TR at 5 3 L
+end TR
+start L
+end L
+start R
+End R at 6 4 L
+end R
+start BL
+End BL at 7 1 L
+end BL
+start B
+End B at 7 2 L
+end B
+start BR
+End BR at 7 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 6, x 4 (L)
+start TL
+End TL at 5 3 L
+end TL
+start Top
+End Top at 5 4 L
+end Top
+start TR
+End TR at 5 5 L
+end TR
+start L
+End L at 6 2 L
+end L
+start R
+end R
+start BL
+End BL at 7 3 L
+end BL
+start B
+End B at 7 4 L
+end B
+start BR
+End BR at 7 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 5 0 L
+end Top
+start TR
+End TR at 5 2 L
+end TR
+start L
+end L
+start R
+End R at 7 1 L
+end R
+start BL
+end BL
+start B
+End B at 8 0 #
+end B
+start BR
+End BR at 9 2 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 7, x 1 (L)
+start TL
+end TL
+start Top
+End Top at 3 1 L
+end Top
+start TR
+End TR at 6 2 L
+end TR
+start L
+End L at 7 0 L
+end L
+start R
+End R at 7 2 L
+end R
+start BL
+End BL at 8 0 #
+end BL
+start B
+end B
+start BR
+End BR at 8 2 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 7, x 2 (L)
+start TL
+End TL at 5 0 L
+end TL
+start Top
+End Top at 6 2 L
+end Top
+start TR
+End TR at 5 4 L
+end TR
+start L
+End L at 7 1 L
+end L
+start R
+End R at 7 3 L
+end R
+start BL
+End BL at 9 0 #
+end BL
+start B
+End B at 8 2 L
+end B
+start BR
+End BR at 8 3 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 7, x 3 (L)
+start TL
+End TL at 6 2 L
+end TL
+start Top
+End Top at 5 3 L
+end Top
+start TR
+End TR at 6 4 L
+end TR
+start L
+End L at 7 2 L
+end L
+start R
+End R at 7 4 L
+end R
+start BL
+End BL at 8 2 L
+end BL
+start B
+End B at 8 3 L
+end B
+start BR
+End BR at 8 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 4 (L)
+start TL
+End TL at 5 2 L
+end TL
+start Top
+End Top at 6 4 L
+end Top
+start TR
+End TR at 5 6 L
+end TR
+start L
+End L at 7 3 L
+end L
+start R
+End R at 7 5 L
+end R
+start BL
+End BL at 8 3 L
+end BL
+start B
+End B at 8 4 L
+end B
+start BR
+End BR at 8 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 5 (L)
+start TL
+End TL at 6 4 L
+end TL
+start Top
+End Top at 5 5 L
+end Top
+start TR
+End TR at 4 8 L
+end TR
+start L
+End L at 7 4 L
+end L
+start R
+End R at 7 6 L
+end R
+start BL
+End BL at 8 4 L
+end BL
+start B
+End B at 8 5 L
+end B
+start BR
+End BR at 8 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 6 (L)
+start TL
+End TL at 5 4 L
+end TL
+start Top
+End Top at 5 6 L
+end Top
+start TR
+End TR at 5 8 L
+end TR
+start L
+End L at 7 5 L
+end L
+start R
+End R at 7 7 L
+end R
+start BL
+End BL at 8 5 L
+end BL
+start B
+End B at 8 6 L
+end B
+start BR
+End BR at 8 7 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 7 (L)
+start TL
+End TL at 5 5 L
+end TL
+start Top
+End Top at 2 7 L
+end Top
+start TR
+End TR at 5 9 L
+end TR
+start L
+End L at 7 6 L
+end L
+start R
+End R at 7 8 L
+end R
+start BL
+End BL at 8 6 L
+end BL
+start B
+End B at 8 7 L
+end B
+start BR
+End BR at 9 9 #
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 7, x 8 (L)
+start TL
+End TL at 5 6 L
+end TL
+start Top
+End Top at 5 8 L
+end Top
+start TR
+end TR
+start L
+End L at 7 7 L
+end L
+start R
+End R at 7 9 #
+end R
+start BL
+End BL at 8 7 L
+end BL
+start B
+End B at 9 8 L
+end B
+start BR
+End BR at 8 9 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 7, x 9 (#)
+start TL
+End TL at 4 6 L
+end TL
+start Top
+End Top at 5 9 L
+end Top
+start TR
+end TR
+start L
+End L at 7 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+End B at 8 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 8, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 7 0 L
+end Top
+start TR
+End TR at 7 1 L
+end TR
+start L
+end L
+start R
+End R at 8 2 L
+end R
+start BL
+end BL
+start B
+End B at 9 0 #
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 8, x 2 (L)
+start TL
+End TL at 7 1 L
+end TL
+start Top
+End Top at 7 2 L
+end Top
+start TR
+End TR at 7 3 L
+end TR
+start L
+End L at 8 0 #
+end L
+start R
+End R at 8 3 L
+end R
+start BL
+end BL
+start B
+End B at 9 2 L
+end B
+start BR
+End BR at 9 3 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 8, x 3 (L)
+start TL
+End TL at 7 2 L
+end TL
+start Top
+End Top at 7 3 L
+end Top
+start TR
+End TR at 7 4 L
+end TR
+start L
+End L at 8 2 L
+end L
+start R
+End R at 8 4 L
+end R
+start BL
+End BL at 9 2 L
+end BL
+start B
+End B at 9 3 L
+end B
+start BR
+End BR at 9 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 4 (L)
+start TL
+End TL at 7 3 L
+end TL
+start Top
+End Top at 7 4 L
+end Top
+start TR
+End TR at 7 5 L
+end TR
+start L
+End L at 8 3 L
+end L
+start R
+End R at 8 5 L
+end R
+start BL
+End BL at 9 3 L
+end BL
+start B
+End B at 9 4 L
+end B
+start BR
+End BR at 9 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 5 (L)
+start TL
+End TL at 7 4 L
+end TL
+start Top
+End Top at 7 5 L
+end Top
+start TR
+End TR at 7 6 L
+end TR
+start L
+End L at 8 4 L
+end L
+start R
+End R at 8 6 L
+end R
+start BL
+End BL at 9 4 L
+end BL
+start B
+End B at 9 5 L
+end B
+start BR
+End BR at 9 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 6 (L)
+start TL
+End TL at 7 5 L
+end TL
+start Top
+End Top at 7 6 L
+end Top
+start TR
+End TR at 7 7 L
+end TR
+start L
+End L at 8 5 L
+end L
+start R
+End R at 8 7 L
+end R
+start BL
+End BL at 9 5 L
+end BL
+start B
+End B at 9 6 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 7 (L)
+start TL
+End TL at 7 6 L
+end TL
+start Top
+End Top at 7 7 L
+end Top
+start TR
+End TR at 7 8 L
+end TR
+start L
+End L at 8 6 L
+end L
+start R
+End R at 8 9 L
+end R
+start BL
+End BL at 9 6 L
+end BL
+start B
+end B
+start BR
+End BR at 9 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 8, x 9 (L)
+start TL
+End TL at 7 8 L
+end TL
+start Top
+End Top at 7 9 #
+end Top
+start TR
+end TR
+start L
+End L at 8 7 L
+end L
+start R
+end R
+start BL
+End BL at 9 8 L
+end BL
+start B
+End B at 9 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 9, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 8 0 #
+end Top
+start TR
+End TR at 7 2 L
+end TR
+start L
+end L
+start R
+End R at 9 2 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 9, x 2 (L)
+start TL
+End TL at 7 0 L
+end TL
+start Top
+End Top at 8 2 L
+end Top
+start TR
+End TR at 8 3 L
+end TR
+start L
+End L at 9 0 #
+end L
+start R
+End R at 9 3 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 9, x 3 (L)
+start TL
+End TL at 8 2 L
+end TL
+start Top
+End Top at 8 3 L
+end Top
+start TR
+End TR at 8 4 L
+end TR
+start L
+End L at 9 2 L
+end L
+start R
+End R at 9 4 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 4 (L)
+start TL
+End TL at 8 3 L
+end TL
+start Top
+End Top at 8 4 L
+end Top
+start TR
+End TR at 8 5 L
+end TR
+start L
+End L at 9 3 L
+end L
+start R
+End R at 9 5 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 5 (L)
+start TL
+End TL at 8 4 L
+end TL
+start Top
+End Top at 8 5 L
+end Top
+start TR
+End TR at 8 6 L
+end TR
+start L
+End L at 9 4 L
+end L
+start R
+End R at 9 6 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 6 (L)
+start TL
+End TL at 8 5 L
+end TL
+start Top
+End Top at 8 6 L
+end Top
+start TR
+End TR at 8 7 L
+end TR
+start L
+End L at 9 5 L
+end L
+start R
+End R at 9 8 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 9, x 8 (L)
+start TL
+End TL at 8 7 L
+end TL
+start Top
+End Top at 7 8 L
+end Top
+start TR
+End TR at 8 9 L
+end TR
+start L
+End L at 9 6 L
+end L
+start R
+End R at 9 9 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 9, x 9 (#)
+start TL
+End TL at 7 7 L
+end TL
+start Top
+End Top at 8 9 L
+end Top
+start TR
+end TR
+start L
+End L at 9 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+#.L#.##.L#
+#L#####.LL
+L.#.#..#..
+##L#.##.##
+#.##.#L.##
+#.#####.#L
+..#.#.....
+LLL####LL#
+#.L#####.L
+#.L####.L#
+
+
+**********************************
+====================================
+Current: y 0, x 0 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 0 2 L
+end R
+start BL
+end BL
+start B
+End B at 1 0 #
+end B
+start BR
+End BR at 1 1 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 0, x 2 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 0 #
+end L
+start R
+End R at 0 3 #
+end R
+start BL
+End BL at 1 1 L
+end BL
+start B
+End B at 1 2 #
+end B
+start BR
+End BR at 1 3 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 0, x 3 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 2 L
+end L
+start R
+End R at 0 5 #
+end R
+start BL
+End BL at 1 2 #
+end BL
+start B
+End B at 1 3 #
+end B
+start BR
+End BR at 1 4 #
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 0, x 5 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 3 #
+end L
+start R
+End R at 0 6 #
+end R
+start BL
+End BL at 1 4 #
+end BL
+start B
+End B at 1 5 #
+end B
+start BR
+End BR at 1 6 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 0, x 6 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 5 #
+end L
+start R
+End R at 0 8 L
+end R
+start BL
+End BL at 1 5 #
+end BL
+start B
+End B at 1 6 #
+end B
+start BR
+End BR at 3 9 #
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 0, x 8 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 6 #
+end L
+start R
+End R at 0 9 #
+end R
+start BL
+End BL at 3 5 #
+end BL
+start B
+End B at 1 8 L
+end B
+start BR
+End BR at 1 9 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 0, x 9 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 8 L
+end L
+start R
+end R
+start BL
+End BL at 1 8 L
+end BL
+start B
+End B at 1 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 1, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 0 0 #
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 1 1 L
+end R
+start BL
+end BL
+start B
+End B at 2 0 L
+end B
+start BR
+End BR at 3 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 1, x 1 (L)
+start TL
+End TL at 0 0 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 2 L
+end TR
+start L
+End L at 1 0 #
+end L
+start R
+End R at 1 2 #
+end R
+start BL
+End BL at 2 0 L
+end BL
+start B
+End B at 3 1 #
+end B
+start BR
+End BR at 2 2 #
+end BR
+
+Occupati: 5
+originale: L -> L (occupati: 5)
+====================================
+Current: y 1, x 2 (#)
+start TL
+end TL
+start Top
+End Top at 0 2 L
+end Top
+start TR
+End TR at 0 3 #
+end TR
+start L
+End L at 1 1 L
+end L
+start R
+End R at 1 3 #
+end R
+start BL
+End BL at 3 0 #
+end BL
+start B
+End B at 2 2 #
+end B
+start BR
+End BR at 4 5 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 1, x 3 (#)
+start TL
+End TL at 0 2 L
+end TL
+start Top
+End Top at 0 3 #
+end Top
+start TR
+end TR
+start L
+End L at 1 2 #
+end L
+start R
+End R at 1 4 #
+end R
+start BL
+End BL at 2 2 #
+end BL
+start B
+End B at 3 3 #
+end B
+start BR
+End BR at 2 4 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 1, x 4 (#)
+start TL
+End TL at 0 3 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 5 #
+end TR
+start L
+End L at 1 3 #
+end L
+start R
+End R at 1 5 #
+end R
+start BL
+End BL at 3 2 L
+end BL
+start B
+End B at 2 4 #
+end B
+start BR
+End BR at 3 6 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 1, x 5 (#)
+start TL
+end TL
+start Top
+End Top at 0 5 #
+end Top
+start TR
+End TR at 0 6 #
+end TR
+start L
+End L at 1 4 #
+end L
+start R
+End R at 1 6 #
+end R
+start BL
+End BL at 2 4 #
+end BL
+start B
+End B at 3 5 #
+end B
+start BR
+End BR at 4 8 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 1, x 6 (#)
+start TL
+End TL at 0 5 #
+end TL
+start Top
+End Top at 0 6 #
+end Top
+start TR
+end TR
+start L
+End L at 1 5 #
+end L
+start R
+End R at 1 8 L
+end R
+start BL
+End BL at 4 3 #
+end BL
+start B
+End B at 3 6 #
+end B
+start BR
+End BR at 2 7 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 1, x 8 (L)
+start TL
+end TL
+start Top
+End Top at 0 8 L
+end Top
+start TR
+End TR at 0 9 #
+end TR
+start L
+End L at 1 6 #
+end L
+start R
+End R at 1 9 L
+end R
+start BL
+End BL at 2 7 #
+end BL
+start B
+End B at 3 8 #
+end B
+start BR
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 1, x 9 (L)
+start TL
+End TL at 0 8 L
+end TL
+start Top
+End Top at 0 9 #
+end Top
+start TR
+end TR
+start L
+End L at 1 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 6 L
+end BL
+start B
+End B at 3 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 2, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 1 0 #
+end Top
+start TR
+End TR at 1 1 L
+end TR
+start L
+end L
+start R
+End R at 2 2 #
+end R
+start BL
+end BL
+start B
+End B at 3 0 #
+end B
+start BR
+End BR at 3 1 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 2, x 2 (#)
+start TL
+End TL at 1 1 L
+end TL
+start Top
+End Top at 1 2 #
+end Top
+start TR
+End TR at 1 3 #
+end TR
+start L
+End L at 2 0 L
+end L
+start R
+End R at 2 4 #
+end R
+start BL
+End BL at 3 1 #
+end BL
+start B
+End B at 3 2 L
+end B
+start BR
+End BR at 3 3 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 2, x 4 (#)
+start TL
+End TL at 1 3 #
+end TL
+start Top
+End Top at 1 4 #
+end Top
+start TR
+End TR at 1 5 #
+end TR
+start L
+End L at 2 2 #
+end L
+start R
+End R at 2 7 #
+end R
+start BL
+End BL at 3 3 #
+end BL
+start B
+End B at 5 4 #
+end B
+start BR
+End BR at 3 5 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 2, x 7 (#)
+start TL
+End TL at 1 6 #
+end TL
+start Top
+end Top
+start TR
+End TR at 1 8 L
+end TR
+start L
+End L at 2 4 #
+end L
+start R
+end R
+start BL
+End BL at 3 6 #
+end BL
+start B
+End B at 7 7 L
+end B
+start BR
+End BR at 3 8 #
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 3, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 2 0 L
+end Top
+start TR
+End TR at 1 2 #
+end TR
+start L
+end L
+start R
+End R at 3 1 #
+end R
+start BL
+end BL
+start B
+End B at 4 0 #
+end B
+start BR
+End BR at 5 2 #
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 3, x 1 (#)
+start TL
+End TL at 2 0 L
+end TL
+start Top
+End Top at 1 1 L
+end Top
+start TR
+End TR at 2 2 #
+end TR
+start L
+End L at 3 0 #
+end L
+start R
+End R at 3 2 L
+end R
+start BL
+End BL at 4 0 #
+end BL
+start B
+End B at 7 1 L
+end B
+start BR
+End BR at 4 2 #
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 3, x 2 (L)
+start TL
+End TL at 1 0 #
+end TL
+start Top
+End Top at 2 2 #
+end Top
+start TR
+End TR at 1 4 #
+end TR
+start L
+End L at 3 1 #
+end L
+start R
+End R at 3 3 #
+end R
+start BL
+End BL at 5 0 #
+end BL
+start B
+End B at 4 2 #
+end B
+start BR
+End BR at 4 3 #
+end BR
+
+Occupati: 8
+originale: L -> L (occupati: 8)
+====================================
+Current: y 3, x 3 (#)
+start TL
+End TL at 2 2 #
+end TL
+start Top
+End Top at 1 3 #
+end Top
+start TR
+End TR at 2 4 #
+end TR
+start L
+End L at 3 2 L
+end L
+start R
+End R at 3 5 #
+end R
+start BL
+End BL at 4 2 #
+end BL
+start B
+End B at 4 3 #
+end B
+start BR
+End BR at 5 5 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 3, x 5 (#)
+start TL
+End TL at 2 4 #
+end TL
+start Top
+End Top at 1 5 #
+end Top
+start TR
+End TR at 0 8 L
+end TR
+start L
+End L at 3 3 #
+end L
+start R
+End R at 3 6 #
+end R
+start BL
+End BL at 5 3 #
+end BL
+start B
+End B at 4 5 #
+end B
+start BR
+End BR at 4 6 L
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 3, x 6 (#)
+start TL
+End TL at 1 4 #
+end TL
+start Top
+End Top at 1 6 #
+end Top
+start TR
+End TR at 2 7 #
+end TR
+start L
+End L at 3 5 #
+end L
+start R
+End R at 3 8 #
+end R
+start BL
+End BL at 4 5 #
+end BL
+start B
+End B at 4 6 L
+end B
+start BR
+End BR at 5 8 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 3, x 8 (#)
+start TL
+End TL at 2 7 #
+end TL
+start Top
+End Top at 1 8 L
+end Top
+start TR
+end TR
+start L
+End L at 3 6 #
+end L
+start R
+End R at 3 9 #
+end R
+start BL
+End BL at 5 6 #
+end BL
+start B
+End B at 4 8 #
+end B
+start BR
+End BR at 4 9 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 3, x 9 (#)
+start TL
+End TL at 0 6 #
+end TL
+start Top
+End Top at 1 9 L
+end Top
+start TR
+end TR
+start L
+End L at 3 8 #
+end L
+start R
+end R
+start BL
+End BL at 4 8 #
+end BL
+start B
+End B at 4 9 #
+end B
+start BR
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 4, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 3 0 #
+end Top
+start TR
+End TR at 3 1 #
+end TR
+start L
+end L
+start R
+End R at 4 2 #
+end R
+start BL
+end BL
+start B
+End B at 5 0 #
+end B
+start BR
+End BR at 6 2 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 4, x 2 (#)
+start TL
+End TL at 3 1 #
+end TL
+start Top
+End Top at 3 2 L
+end Top
+start TR
+End TR at 3 3 #
+end TR
+start L
+End L at 4 0 #
+end L
+start R
+End R at 4 3 #
+end R
+start BL
+end BL
+start B
+End B at 5 2 #
+end B
+start BR
+End BR at 5 3 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 4, x 3 (#)
+start TL
+End TL at 3 2 L
+end TL
+start Top
+End Top at 3 3 #
+end Top
+start TR
+End TR at 1 6 #
+end TR
+start L
+End L at 4 2 #
+end L
+start R
+End R at 4 5 #
+end R
+start BL
+End BL at 5 2 #
+end BL
+start B
+End B at 5 3 #
+end B
+start BR
+End BR at 5 4 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 4, x 5 (#)
+start TL
+End TL at 1 2 #
+end TL
+start Top
+End Top at 3 5 #
+end Top
+start TR
+End TR at 3 6 #
+end TR
+start L
+End L at 4 3 #
+end L
+start R
+End R at 4 6 L
+end R
+start BL
+End BL at 5 4 #
+end BL
+start B
+End B at 5 5 #
+end B
+start BR
+End BR at 5 6 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 4, x 6 (L)
+start TL
+End TL at 3 5 #
+end TL
+start Top
+End Top at 3 6 #
+end Top
+start TR
+End TR at 1 9 L
+end TR
+start L
+End L at 4 5 #
+end L
+start R
+End R at 4 8 #
+end R
+start BL
+End BL at 5 5 #
+end BL
+start B
+End B at 5 6 #
+end B
+start BR
+End BR at 7 9 #
+end BR
+
+Occupati: 7
+originale: L -> L (occupati: 7)
+====================================
+Current: y 4, x 8 (#)
+start TL
+End TL at 1 5 #
+end TL
+start Top
+End Top at 3 8 #
+end Top
+start TR
+End TR at 3 9 #
+end TR
+start L
+End L at 4 6 L
+end L
+start R
+End R at 4 9 #
+end R
+start BL
+End BL at 7 5 #
+end BL
+start B
+End B at 5 8 #
+end B
+start BR
+End BR at 5 9 L
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 4, x 9 (#)
+start TL
+End TL at 3 8 #
+end TL
+start Top
+End Top at 3 9 #
+end Top
+start TR
+end TR
+start L
+End L at 4 8 #
+end L
+start R
+end R
+start BL
+End BL at 5 8 #
+end BL
+start B
+End B at 5 9 L
+end B
+start BR
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 5, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 4 0 #
+end Top
+start TR
+End TR at 3 2 L
+end TR
+start L
+end L
+start R
+End R at 5 2 #
+end R
+start BL
+end BL
+start B
+End B at 7 0 L
+end B
+start BR
+End BR at 7 2 L
+end BR
+
+Occupati: 2
+originale: # -> # (occupati: 2)
+====================================
+Current: y 5, x 2 (#)
+start TL
+End TL at 3 0 #
+end TL
+start Top
+End Top at 4 2 #
+end Top
+start TR
+End TR at 4 3 #
+end TR
+start L
+End L at 5 0 #
+end L
+start R
+End R at 5 3 #
+end R
+start BL
+End BL at 7 0 L
+end BL
+start B
+End B at 6 2 #
+end B
+start BR
+End BR at 7 4 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 5, x 3 (#)
+start TL
+End TL at 4 2 #
+end TL
+start Top
+End Top at 4 3 #
+end Top
+start TR
+End TR at 3 5 #
+end TR
+start L
+End L at 5 2 #
+end L
+start R
+End R at 5 4 #
+end R
+start BL
+End BL at 6 2 #
+end BL
+start B
+End B at 7 3 #
+end B
+start BR
+End BR at 6 4 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 5, x 4 (#)
+start TL
+End TL at 4 3 #
+end TL
+start Top
+End Top at 2 4 #
+end Top
+start TR
+End TR at 4 5 #
+end TR
+start L
+End L at 5 3 #
+end L
+start R
+End R at 5 5 #
+end R
+start BL
+End BL at 7 2 L
+end BL
+start B
+End B at 6 4 #
+end B
+start BR
+End BR at 7 6 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 5, x 5 (#)
+start TL
+End TL at 3 3 #
+end TL
+start Top
+End Top at 4 5 #
+end Top
+start TR
+End TR at 4 6 L
+end TR
+start L
+End L at 5 4 #
+end L
+start R
+End R at 5 6 #
+end R
+start BL
+End BL at 6 4 #
+end BL
+start B
+End B at 7 5 #
+end B
+start BR
+End BR at 7 7 L
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 5, x 6 (#)
+start TL
+End TL at 4 5 #
+end TL
+start Top
+End Top at 4 6 L
+end Top
+start TR
+End TR at 3 8 #
+end TR
+start L
+End L at 5 5 #
+end L
+start R
+End R at 5 8 #
+end R
+start BL
+End BL at 7 4 #
+end BL
+start B
+End B at 7 6 #
+end B
+start BR
+End BR at 7 8 L
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 5, x 8 (#)
+start TL
+End TL at 3 6 #
+end TL
+start Top
+End Top at 4 8 #
+end Top
+start TR
+End TR at 4 9 #
+end TR
+start L
+End L at 5 6 #
+end L
+start R
+End R at 5 9 L
+end R
+start BL
+End BL at 7 6 #
+end BL
+start B
+End B at 7 8 L
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 5, x 9 (L)
+start TL
+End TL at 4 8 #
+end TL
+start Top
+End Top at 4 9 #
+end Top
+start TR
+end TR
+start L
+End L at 5 8 #
+end L
+start R
+end R
+start BL
+End BL at 7 7 L
+end BL
+start B
+End B at 7 9 #
+end B
+start BR
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 6, x 2 (#)
+start TL
+End TL at 4 0 #
+end TL
+start Top
+End Top at 5 2 #
+end Top
+start TR
+End TR at 5 3 #
+end TR
+start L
+end L
+start R
+End R at 6 4 #
+end R
+start BL
+End BL at 7 1 L
+end BL
+start B
+End B at 7 2 L
+end B
+start BR
+End BR at 7 3 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 6, x 4 (#)
+start TL
+End TL at 5 3 #
+end TL
+start Top
+End Top at 5 4 #
+end Top
+start TR
+End TR at 5 5 #
+end TR
+start L
+End L at 6 2 #
+end L
+start R
+end R
+start BL
+End BL at 7 3 #
+end BL
+start B
+End B at 7 4 #
+end B
+start BR
+End BR at 7 5 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 7, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 5 0 #
+end Top
+start TR
+End TR at 5 2 #
+end TR
+start L
+end L
+start R
+End R at 7 1 L
+end R
+start BL
+end BL
+start B
+End B at 8 0 #
+end B
+start BR
+End BR at 9 2 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 1 (L)
+start TL
+end TL
+start Top
+End Top at 3 1 #
+end Top
+start TR
+End TR at 6 2 #
+end TR
+start L
+End L at 7 0 L
+end L
+start R
+End R at 7 2 L
+end R
+start BL
+End BL at 8 0 #
+end BL
+start B
+end B
+start BR
+End BR at 8 2 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 2 (L)
+start TL
+End TL at 5 0 #
+end TL
+start Top
+End Top at 6 2 #
+end Top
+start TR
+End TR at 5 4 #
+end TR
+start L
+End L at 7 1 L
+end L
+start R
+End R at 7 3 #
+end R
+start BL
+End BL at 9 0 #
+end BL
+start B
+End B at 8 2 L
+end B
+start BR
+End BR at 8 3 #
+end BR
+
+Occupati: 6
+originale: L -> L (occupati: 6)
+====================================
+Current: y 7, x 3 (#)
+start TL
+End TL at 6 2 #
+end TL
+start Top
+End Top at 5 3 #
+end Top
+start TR
+End TR at 6 4 #
+end TR
+start L
+End L at 7 2 L
+end L
+start R
+End R at 7 4 #
+end R
+start BL
+End BL at 8 2 L
+end BL
+start B
+End B at 8 3 #
+end B
+start BR
+End BR at 8 4 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 7, x 4 (#)
+start TL
+End TL at 5 2 #
+end TL
+start Top
+End Top at 6 4 #
+end Top
+start TR
+End TR at 5 6 #
+end TR
+start L
+End L at 7 3 #
+end L
+start R
+End R at 7 5 #
+end R
+start BL
+End BL at 8 3 #
+end BL
+start B
+End B at 8 4 #
+end B
+start BR
+End BR at 8 5 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 7, x 5 (#)
+start TL
+End TL at 6 4 #
+end TL
+start Top
+End Top at 5 5 #
+end Top
+start TR
+End TR at 4 8 #
+end TR
+start L
+End L at 7 4 #
+end L
+start R
+End R at 7 6 #
+end R
+start BL
+End BL at 8 4 #
+end BL
+start B
+End B at 8 5 #
+end B
+start BR
+End BR at 8 6 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 7, x 6 (#)
+start TL
+End TL at 5 4 #
+end TL
+start Top
+End Top at 5 6 #
+end Top
+start TR
+End TR at 5 8 #
+end TR
+start L
+End L at 7 5 #
+end L
+start R
+End R at 7 7 L
+end R
+start BL
+End BL at 8 5 #
+end BL
+start B
+End B at 8 6 #
+end B
+start BR
+End BR at 8 7 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 7, x 7 (L)
+start TL
+End TL at 5 5 #
+end TL
+start Top
+End Top at 2 7 #
+end Top
+start TR
+End TR at 5 9 L
+end TR
+start L
+End L at 7 6 #
+end L
+start R
+End R at 7 8 L
+end R
+start BL
+End BL at 8 6 #
+end BL
+start B
+End B at 8 7 #
+end B
+start BR
+End BR at 9 9 #
+end BR
+
+Occupati: 6
+originale: L -> L (occupati: 6)
+====================================
+Current: y 7, x 8 (L)
+start TL
+End TL at 5 6 #
+end TL
+start Top
+End Top at 5 8 #
+end Top
+start TR
+end TR
+start L
+End L at 7 7 L
+end L
+start R
+End R at 7 9 #
+end R
+start BL
+End BL at 8 7 #
+end BL
+start B
+End B at 9 8 L
+end B
+start BR
+End BR at 8 9 L
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 7, x 9 (#)
+start TL
+End TL at 4 6 L
+end TL
+start Top
+End Top at 5 9 L
+end Top
+start TR
+end TR
+start L
+End L at 7 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+End B at 8 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 8, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 7 0 L
+end Top
+start TR
+End TR at 7 1 L
+end TR
+start L
+end L
+start R
+End R at 8 2 L
+end R
+start BL
+end BL
+start B
+End B at 9 0 #
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 8, x 2 (L)
+start TL
+End TL at 7 1 L
+end TL
+start Top
+End Top at 7 2 L
+end Top
+start TR
+End TR at 7 3 #
+end TR
+start L
+End L at 8 0 #
+end L
+start R
+End R at 8 3 #
+end R
+start BL
+end BL
+start B
+End B at 9 2 L
+end B
+start BR
+End BR at 9 3 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 8, x 3 (#)
+start TL
+End TL at 7 2 L
+end TL
+start Top
+End Top at 7 3 #
+end Top
+start TR
+End TR at 7 4 #
+end TR
+start L
+End L at 8 2 L
+end L
+start R
+End R at 8 4 #
+end R
+start BL
+End BL at 9 2 L
+end BL
+start B
+End B at 9 3 #
+end B
+start BR
+End BR at 9 4 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 8, x 4 (#)
+start TL
+End TL at 7 3 #
+end TL
+start Top
+End Top at 7 4 #
+end Top
+start TR
+End TR at 7 5 #
+end TR
+start L
+End L at 8 3 #
+end L
+start R
+End R at 8 5 #
+end R
+start BL
+End BL at 9 3 #
+end BL
+start B
+End B at 9 4 #
+end B
+start BR
+End BR at 9 5 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 8, x 5 (#)
+start TL
+End TL at 7 4 #
+end TL
+start Top
+End Top at 7 5 #
+end Top
+start TR
+End TR at 7 6 #
+end TR
+start L
+End L at 8 4 #
+end L
+start R
+End R at 8 6 #
+end R
+start BL
+End BL at 9 4 #
+end BL
+start B
+End B at 9 5 #
+end B
+start BR
+End BR at 9 6 #
+end BR
+
+Occupati: 8
+originale: # -> L (occupati: 8)
+====================================
+Current: y 8, x 6 (#)
+start TL
+End TL at 7 5 #
+end TL
+start Top
+End Top at 7 6 #
+end Top
+start TR
+End TR at 7 7 L
+end TR
+start L
+End L at 8 5 #
+end L
+start R
+End R at 8 7 #
+end R
+start BL
+End BL at 9 5 #
+end BL
+start B
+End B at 9 6 #
+end B
+start BR
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 8, x 7 (#)
+start TL
+End TL at 7 6 #
+end TL
+start Top
+End Top at 7 7 L
+end Top
+start TR
+End TR at 7 8 L
+end TR
+start L
+End L at 8 6 #
+end L
+start R
+End R at 8 9 L
+end R
+start BL
+End BL at 9 6 #
+end BL
+start B
+end B
+start BR
+End BR at 9 8 L
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 8, x 9 (L)
+start TL
+End TL at 7 8 L
+end TL
+start Top
+End Top at 7 9 #
+end Top
+start TR
+end TR
+start L
+End L at 8 7 #
+end L
+start R
+end R
+start BL
+End BL at 9 8 L
+end BL
+start B
+End B at 9 9 #
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 8 0 #
+end Top
+start TR
+End TR at 7 2 L
+end TR
+start L
+end L
+start R
+End R at 9 2 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 9, x 2 (L)
+start TL
+End TL at 7 0 L
+end TL
+start Top
+End Top at 8 2 L
+end Top
+start TR
+End TR at 8 3 #
+end TR
+start L
+End L at 9 0 #
+end L
+start R
+End R at 9 3 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 3 (#)
+start TL
+End TL at 8 2 L
+end TL
+start Top
+End Top at 8 3 #
+end Top
+start TR
+End TR at 8 4 #
+end TR
+start L
+End L at 9 2 L
+end L
+start R
+End R at 9 4 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 9, x 4 (#)
+start TL
+End TL at 8 3 #
+end TL
+start Top
+End Top at 8 4 #
+end Top
+start TR
+End TR at 8 5 #
+end TR
+start L
+End L at 9 3 #
+end L
+start R
+End R at 9 5 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 5 (#)
+start TL
+End TL at 8 4 #
+end TL
+start Top
+End Top at 8 5 #
+end Top
+start TR
+End TR at 8 6 #
+end TR
+start L
+End L at 9 4 #
+end L
+start R
+End R at 9 6 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 9, x 6 (#)
+start TL
+End TL at 8 5 #
+end TL
+start Top
+End Top at 8 6 #
+end Top
+start TR
+End TR at 8 7 #
+end TR
+start L
+End L at 9 5 #
+end L
+start R
+End R at 9 8 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 9, x 8 (L)
+start TL
+End TL at 8 7 #
+end TL
+start Top
+End Top at 7 8 L
+end Top
+start TR
+End TR at 8 9 L
+end TR
+start L
+End L at 9 6 #
+end L
+start R
+End R at 9 9 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 9 (#)
+start TL
+End TL at 7 7 L
+end TL
+start Top
+End Top at 8 9 L
+end Top
+start TR
+end TR
+start L
+End L at 9 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+#.L#.L#.L#
+#LLLLLL.LL
+L.L.L..#..
+##LL.LL.L#
+L.LL.LL.L#
+#.LLLLL.LL
+..L.L.....
+LLLLLLLLL#
+#.LLLLL#.L
+#.L#LL#.L#
+
+
+**********************************
+====================================
+Current: y 0, x 0 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 0 2 L
+end R
+start BL
+end BL
+start B
+End B at 1 0 #
+end B
+start BR
+End BR at 1 1 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 0, x 2 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 0 #
+end L
+start R
+End R at 0 3 #
+end R
+start BL
+End BL at 1 1 L
+end BL
+start B
+End B at 1 2 L
+end B
+start BR
+End BR at 1 3 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 0, x 3 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 2 L
+end L
+start R
+End R at 0 5 L
+end R
+start BL
+End BL at 1 2 L
+end BL
+start B
+End B at 1 3 L
+end B
+start BR
+End BR at 1 4 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 0, x 5 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 3 #
+end L
+start R
+End R at 0 6 #
+end R
+start BL
+End BL at 1 4 L
+end BL
+start B
+End B at 1 5 L
+end B
+start BR
+End BR at 1 6 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 0, x 6 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 5 L
+end L
+start R
+End R at 0 8 L
+end R
+start BL
+End BL at 1 5 L
+end BL
+start B
+End B at 1 6 L
+end B
+start BR
+End BR at 3 9 #
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 0, x 8 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 6 #
+end L
+start R
+End R at 0 9 #
+end R
+start BL
+End BL at 3 5 L
+end BL
+start B
+End B at 1 8 L
+end B
+start BR
+End BR at 1 9 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 0, x 9 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 8 L
+end L
+start R
+end R
+start BL
+End BL at 1 8 L
+end BL
+start B
+End B at 1 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 1, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 0 0 #
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 1 1 L
+end R
+start BL
+end BL
+start B
+End B at 2 0 L
+end B
+start BR
+End BR at 3 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 1, x 1 (L)
+start TL
+End TL at 0 0 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 2 L
+end TR
+start L
+End L at 1 0 #
+end L
+start R
+End R at 1 2 L
+end R
+start BL
+End BL at 2 0 L
+end BL
+start B
+End B at 3 1 #
+end B
+start BR
+End BR at 2 2 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 1, x 2 (L)
+start TL
+end TL
+start Top
+End Top at 0 2 L
+end Top
+start TR
+End TR at 0 3 #
+end TR
+start L
+End L at 1 1 L
+end L
+start R
+End R at 1 3 L
+end R
+start BL
+End BL at 3 0 #
+end BL
+start B
+End B at 2 2 L
+end B
+start BR
+End BR at 4 5 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 3 (L)
+start TL
+End TL at 0 2 L
+end TL
+start Top
+End Top at 0 3 #
+end Top
+start TR
+end TR
+start L
+End L at 1 2 L
+end L
+start R
+End R at 1 4 L
+end R
+start BL
+End BL at 2 2 L
+end BL
+start B
+End B at 3 3 L
+end B
+start BR
+End BR at 2 4 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 1, x 4 (L)
+start TL
+End TL at 0 3 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 5 L
+end TR
+start L
+End L at 1 3 L
+end L
+start R
+End R at 1 5 L
+end R
+start BL
+End BL at 3 2 L
+end BL
+start B
+End B at 2 4 L
+end B
+start BR
+End BR at 3 6 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 1, x 5 (L)
+start TL
+end TL
+start Top
+End Top at 0 5 L
+end Top
+start TR
+End TR at 0 6 #
+end TR
+start L
+End L at 1 4 L
+end L
+start R
+End R at 1 6 L
+end R
+start BL
+End BL at 2 4 L
+end BL
+start B
+End B at 3 5 L
+end B
+start BR
+End BR at 4 8 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 1, x 6 (L)
+start TL
+End TL at 0 5 L
+end TL
+start Top
+End Top at 0 6 #
+end Top
+start TR
+end TR
+start L
+End L at 1 5 L
+end L
+start R
+End R at 1 8 L
+end R
+start BL
+End BL at 4 3 L
+end BL
+start B
+End B at 3 6 L
+end B
+start BR
+End BR at 2 7 #
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 8 (L)
+start TL
+end TL
+start Top
+End Top at 0 8 L
+end Top
+start TR
+End TR at 0 9 #
+end TR
+start L
+End L at 1 6 L
+end L
+start R
+End R at 1 9 L
+end R
+start BL
+End BL at 2 7 #
+end BL
+start B
+End B at 3 8 L
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 9 (L)
+start TL
+End TL at 0 8 L
+end TL
+start Top
+End Top at 0 9 #
+end Top
+start TR
+end TR
+start L
+End L at 1 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 6 L
+end BL
+start B
+End B at 3 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 2, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 1 0 #
+end Top
+start TR
+End TR at 1 1 L
+end TR
+start L
+end L
+start R
+End R at 2 2 L
+end R
+start BL
+end BL
+start B
+End B at 3 0 #
+end B
+start BR
+End BR at 3 1 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 2, x 2 (L)
+start TL
+End TL at 1 1 L
+end TL
+start Top
+End Top at 1 2 L
+end Top
+start TR
+End TR at 1 3 L
+end TR
+start L
+End L at 2 0 L
+end L
+start R
+End R at 2 4 L
+end R
+start BL
+End BL at 3 1 #
+end BL
+start B
+End B at 3 2 L
+end B
+start BR
+End BR at 3 3 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 2, x 4 (L)
+start TL
+End TL at 1 3 L
+end TL
+start Top
+End Top at 1 4 L
+end Top
+start TR
+End TR at 1 5 L
+end TR
+start L
+End L at 2 2 L
+end L
+start R
+End R at 2 7 #
+end R
+start BL
+End BL at 3 3 L
+end BL
+start B
+End B at 5 4 L
+end B
+start BR
+End BR at 3 5 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 2, x 7 (#)
+start TL
+End TL at 1 6 L
+end TL
+start Top
+end Top
+start TR
+End TR at 1 8 L
+end TR
+start L
+End L at 2 4 L
+end L
+start R
+end R
+start BL
+End BL at 3 6 L
+end BL
+start B
+End B at 7 7 L
+end B
+start BR
+End BR at 3 8 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 3, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 2 0 L
+end Top
+start TR
+End TR at 1 2 L
+end TR
+start L
+end L
+start R
+End R at 3 1 #
+end R
+start BL
+end BL
+start B
+End B at 4 0 L
+end B
+start BR
+End BR at 5 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 3, x 1 (#)
+start TL
+End TL at 2 0 L
+end TL
+start Top
+End Top at 1 1 L
+end Top
+start TR
+End TR at 2 2 L
+end TR
+start L
+End L at 3 0 #
+end L
+start R
+End R at 3 2 L
+end R
+start BL
+End BL at 4 0 L
+end BL
+start B
+End B at 7 1 L
+end B
+start BR
+End BR at 4 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 3, x 2 (L)
+start TL
+End TL at 1 0 #
+end TL
+start Top
+End Top at 2 2 L
+end Top
+start TR
+End TR at 1 4 L
+end TR
+start L
+End L at 3 1 #
+end L
+start R
+End R at 3 3 L
+end R
+start BL
+End BL at 5 0 #
+end BL
+start B
+End B at 4 2 L
+end B
+start BR
+End BR at 4 3 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 3, x 3 (L)
+start TL
+End TL at 2 2 L
+end TL
+start Top
+End Top at 1 3 L
+end Top
+start TR
+End TR at 2 4 L
+end TR
+start L
+End L at 3 2 L
+end L
+start R
+End R at 3 5 L
+end R
+start BL
+End BL at 4 2 L
+end BL
+start B
+End B at 4 3 L
+end B
+start BR
+End BR at 5 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 5 (L)
+start TL
+End TL at 2 4 L
+end TL
+start Top
+End Top at 1 5 L
+end Top
+start TR
+End TR at 0 8 L
+end TR
+start L
+End L at 3 3 L
+end L
+start R
+End R at 3 6 L
+end R
+start BL
+End BL at 5 3 L
+end BL
+start B
+End B at 4 5 L
+end B
+start BR
+End BR at 4 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 3, x 6 (L)
+start TL
+End TL at 1 4 L
+end TL
+start Top
+End Top at 1 6 L
+end Top
+start TR
+End TR at 2 7 #
+end TR
+start L
+End L at 3 5 L
+end L
+start R
+End R at 3 8 L
+end R
+start BL
+End BL at 4 5 L
+end BL
+start B
+End B at 4 6 L
+end B
+start BR
+End BR at 5 8 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 3, x 8 (L)
+start TL
+End TL at 2 7 #
+end TL
+start Top
+End Top at 1 8 L
+end Top
+start TR
+end TR
+start L
+End L at 3 6 L
+end L
+start R
+End R at 3 9 #
+end R
+start BL
+End BL at 5 6 L
+end BL
+start B
+End B at 4 8 L
+end B
+start BR
+End BR at 4 9 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 3, x 9 (#)
+start TL
+End TL at 0 6 #
+end TL
+start Top
+End Top at 1 9 L
+end Top
+start TR
+end TR
+start L
+End L at 3 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 8 L
+end BL
+start B
+End B at 4 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: # -> # (occupati: 2)
+====================================
+Current: y 4, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 3 0 #
+end Top
+start TR
+End TR at 3 1 #
+end TR
+start L
+end L
+start R
+End R at 4 2 L
+end R
+start BL
+end BL
+start B
+End B at 5 0 #
+end B
+start BR
+End BR at 6 2 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 4, x 2 (L)
+start TL
+End TL at 3 1 #
+end TL
+start Top
+End Top at 3 2 L
+end Top
+start TR
+End TR at 3 3 L
+end TR
+start L
+End L at 4 0 L
+end L
+start R
+End R at 4 3 L
+end R
+start BL
+end BL
+start B
+End B at 5 2 L
+end B
+start BR
+End BR at 5 3 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 4, x 3 (L)
+start TL
+End TL at 3 2 L
+end TL
+start Top
+End Top at 3 3 L
+end Top
+start TR
+End TR at 1 6 L
+end TR
+start L
+End L at 4 2 L
+end L
+start R
+End R at 4 5 L
+end R
+start BL
+End BL at 5 2 L
+end BL
+start B
+End B at 5 3 L
+end B
+start BR
+End BR at 5 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 5 (L)
+start TL
+End TL at 1 2 L
+end TL
+start Top
+End Top at 3 5 L
+end Top
+start TR
+End TR at 3 6 L
+end TR
+start L
+End L at 4 3 L
+end L
+start R
+End R at 4 6 L
+end R
+start BL
+End BL at 5 4 L
+end BL
+start B
+End B at 5 5 L
+end B
+start BR
+End BR at 5 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 4, x 6 (L)
+start TL
+End TL at 3 5 L
+end TL
+start Top
+End Top at 3 6 L
+end Top
+start TR
+End TR at 1 9 L
+end TR
+start L
+End L at 4 5 L
+end L
+start R
+End R at 4 8 L
+end R
+start BL
+End BL at 5 5 L
+end BL
+start B
+End B at 5 6 L
+end B
+start BR
+End BR at 7 9 #
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 4, x 8 (L)
+start TL
+End TL at 1 5 L
+end TL
+start Top
+End Top at 3 8 L
+end Top
+start TR
+End TR at 3 9 #
+end TR
+start L
+End L at 4 6 L
+end L
+start R
+End R at 4 9 #
+end R
+start BL
+End BL at 7 5 L
+end BL
+start B
+End B at 5 8 L
+end B
+start BR
+End BR at 5 9 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 4, x 9 (#)
+start TL
+End TL at 3 8 L
+end TL
+start Top
+End Top at 3 9 #
+end Top
+start TR
+end TR
+start L
+End L at 4 8 L
+end L
+start R
+end R
+start BL
+End BL at 5 8 L
+end BL
+start B
+End B at 5 9 L
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 5, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 4 0 L
+end Top
+start TR
+End TR at 3 2 L
+end TR
+start L
+end L
+start R
+End R at 5 2 L
+end R
+start BL
+end BL
+start B
+End B at 7 0 L
+end B
+start BR
+End BR at 7 2 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 5, x 2 (L)
+start TL
+End TL at 3 0 #
+end TL
+start Top
+End Top at 4 2 L
+end Top
+start TR
+End TR at 4 3 L
+end TR
+start L
+End L at 5 0 #
+end L
+start R
+End R at 5 3 L
+end R
+start BL
+End BL at 7 0 L
+end BL
+start B
+End B at 6 2 L
+end B
+start BR
+End BR at 7 4 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 5, x 3 (L)
+start TL
+End TL at 4 2 L
+end TL
+start Top
+End Top at 4 3 L
+end Top
+start TR
+End TR at 3 5 L
+end TR
+start L
+End L at 5 2 L
+end L
+start R
+End R at 5 4 L
+end R
+start BL
+End BL at 6 2 L
+end BL
+start B
+End B at 7 3 L
+end B
+start BR
+End BR at 6 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 4 (L)
+start TL
+End TL at 4 3 L
+end TL
+start Top
+End Top at 2 4 L
+end Top
+start TR
+End TR at 4 5 L
+end TR
+start L
+End L at 5 3 L
+end L
+start R
+End R at 5 5 L
+end R
+start BL
+End BL at 7 2 L
+end BL
+start B
+End B at 6 4 L
+end B
+start BR
+End BR at 7 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 5 (L)
+start TL
+End TL at 3 3 L
+end TL
+start Top
+End Top at 4 5 L
+end Top
+start TR
+End TR at 4 6 L
+end TR
+start L
+End L at 5 4 L
+end L
+start R
+End R at 5 6 L
+end R
+start BL
+End BL at 6 4 L
+end BL
+start B
+End B at 7 5 L
+end B
+start BR
+End BR at 7 7 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 6 (L)
+start TL
+End TL at 4 5 L
+end TL
+start Top
+End Top at 4 6 L
+end Top
+start TR
+End TR at 3 8 L
+end TR
+start L
+End L at 5 5 L
+end L
+start R
+End R at 5 8 L
+end R
+start BL
+End BL at 7 4 L
+end BL
+start B
+End B at 7 6 L
+end B
+start BR
+End BR at 7 8 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 5, x 8 (L)
+start TL
+End TL at 3 6 L
+end TL
+start Top
+End Top at 4 8 L
+end Top
+start TR
+End TR at 4 9 #
+end TR
+start L
+End L at 5 6 L
+end L
+start R
+End R at 5 9 L
+end R
+start BL
+End BL at 7 6 L
+end BL
+start B
+End B at 7 8 L
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 5, x 9 (L)
+start TL
+End TL at 4 8 L
+end TL
+start Top
+End Top at 4 9 #
+end Top
+start TR
+end TR
+start L
+End L at 5 8 L
+end L
+start R
+end R
+start BL
+End BL at 7 7 L
+end BL
+start B
+End B at 7 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 6, x 2 (L)
+start TL
+End TL at 4 0 L
+end TL
+start Top
+End Top at 5 2 L
+end Top
+start TR
+End TR at 5 3 L
+end TR
+start L
+end L
+start R
+End R at 6 4 L
+end R
+start BL
+End BL at 7 1 L
+end BL
+start B
+End B at 7 2 L
+end B
+start BR
+End BR at 7 3 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 6, x 4 (L)
+start TL
+End TL at 5 3 L
+end TL
+start Top
+End Top at 5 4 L
+end Top
+start TR
+End TR at 5 5 L
+end TR
+start L
+End L at 6 2 L
+end L
+start R
+end R
+start BL
+End BL at 7 3 L
+end BL
+start B
+End B at 7 4 L
+end B
+start BR
+End BR at 7 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 5 0 #
+end Top
+start TR
+End TR at 5 2 L
+end TR
+start L
+end L
+start R
+End R at 7 1 L
+end R
+start BL
+end BL
+start B
+End B at 8 0 #
+end B
+start BR
+End BR at 9 2 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 7, x 1 (L)
+start TL
+end TL
+start Top
+End Top at 3 1 #
+end Top
+start TR
+End TR at 6 2 L
+end TR
+start L
+End L at 7 0 L
+end L
+start R
+End R at 7 2 L
+end R
+start BL
+End BL at 8 0 #
+end BL
+start B
+end B
+start BR
+End BR at 8 2 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 7, x 2 (L)
+start TL
+End TL at 5 0 #
+end TL
+start Top
+End Top at 6 2 L
+end Top
+start TR
+End TR at 5 4 L
+end TR
+start L
+End L at 7 1 L
+end L
+start R
+End R at 7 3 L
+end R
+start BL
+End BL at 9 0 #
+end BL
+start B
+End B at 8 2 L
+end B
+start BR
+End BR at 8 3 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 7, x 3 (L)
+start TL
+End TL at 6 2 L
+end TL
+start Top
+End Top at 5 3 L
+end Top
+start TR
+End TR at 6 4 L
+end TR
+start L
+End L at 7 2 L
+end L
+start R
+End R at 7 4 L
+end R
+start BL
+End BL at 8 2 L
+end BL
+start B
+End B at 8 3 L
+end B
+start BR
+End BR at 8 4 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 4 (L)
+start TL
+End TL at 5 2 L
+end TL
+start Top
+End Top at 6 4 L
+end Top
+start TR
+End TR at 5 6 L
+end TR
+start L
+End L at 7 3 L
+end L
+start R
+End R at 7 5 L
+end R
+start BL
+End BL at 8 3 L
+end BL
+start B
+End B at 8 4 L
+end B
+start BR
+End BR at 8 5 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 5 (L)
+start TL
+End TL at 6 4 L
+end TL
+start Top
+End Top at 5 5 L
+end Top
+start TR
+End TR at 4 8 L
+end TR
+start L
+End L at 7 4 L
+end L
+start R
+End R at 7 6 L
+end R
+start BL
+End BL at 8 4 L
+end BL
+start B
+End B at 8 5 L
+end B
+start BR
+End BR at 8 6 L
+end BR
+
+Occupati: 0
+originale: L -> # (occupati: 0)
+====================================
+Current: y 7, x 6 (L)
+start TL
+End TL at 5 4 L
+end TL
+start Top
+End Top at 5 6 L
+end Top
+start TR
+End TR at 5 8 L
+end TR
+start L
+End L at 7 5 L
+end L
+start R
+End R at 7 7 L
+end R
+start BL
+End BL at 8 5 L
+end BL
+start B
+End B at 8 6 L
+end B
+start BR
+End BR at 8 7 #
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 7, x 7 (L)
+start TL
+End TL at 5 5 L
+end TL
+start Top
+End Top at 2 7 #
+end Top
+start TR
+End TR at 5 9 L
+end TR
+start L
+End L at 7 6 L
+end L
+start R
+End R at 7 8 L
+end R
+start BL
+End BL at 8 6 L
+end BL
+start B
+End B at 8 7 #
+end B
+start BR
+End BR at 9 9 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 8 (L)
+start TL
+End TL at 5 6 L
+end TL
+start Top
+End Top at 5 8 L
+end Top
+start TR
+end TR
+start L
+End L at 7 7 L
+end L
+start R
+End R at 7 9 #
+end R
+start BL
+End BL at 8 7 #
+end BL
+start B
+End B at 9 8 L
+end B
+start BR
+End BR at 8 9 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 7, x 9 (#)
+start TL
+End TL at 4 6 L
+end TL
+start Top
+End Top at 5 9 L
+end Top
+start TR
+end TR
+start L
+End L at 7 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+End B at 8 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 8, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 7 0 L
+end Top
+start TR
+End TR at 7 1 L
+end TR
+start L
+end L
+start R
+End R at 8 2 L
+end R
+start BL
+end BL
+start B
+End B at 9 0 #
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 8, x 2 (L)
+start TL
+End TL at 7 1 L
+end TL
+start Top
+End Top at 7 2 L
+end Top
+start TR
+End TR at 7 3 L
+end TR
+start L
+End L at 8 0 #
+end L
+start R
+End R at 8 3 L
+end R
+start BL
+end BL
+start B
+End B at 9 2 L
+end B
+start BR
+End BR at 9 3 #
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 8, x 3 (L)
+start TL
+End TL at 7 2 L
+end TL
+start Top
+End Top at 7 3 L
+end Top
+start TR
+End TR at 7 4 L
+end TR
+start L
+End L at 8 2 L
+end L
+start R
+End R at 8 4 L
+end R
+start BL
+End BL at 9 2 L
+end BL
+start B
+End B at 9 3 #
+end B
+start BR
+End BR at 9 4 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 8, x 4 (L)
+start TL
+End TL at 7 3 L
+end TL
+start Top
+End Top at 7 4 L
+end Top
+start TR
+End TR at 7 5 L
+end TR
+start L
+End L at 8 3 L
+end L
+start R
+End R at 8 5 L
+end R
+start BL
+End BL at 9 3 #
+end BL
+start B
+End B at 9 4 L
+end B
+start BR
+End BR at 9 5 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 8, x 5 (L)
+start TL
+End TL at 7 4 L
+end TL
+start Top
+End Top at 7 5 L
+end Top
+start TR
+End TR at 7 6 L
+end TR
+start L
+End L at 8 4 L
+end L
+start R
+End R at 8 6 L
+end R
+start BL
+End BL at 9 4 L
+end BL
+start B
+End B at 9 5 L
+end B
+start BR
+End BR at 9 6 #
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 8, x 6 (L)
+start TL
+End TL at 7 5 L
+end TL
+start Top
+End Top at 7 6 L
+end Top
+start TR
+End TR at 7 7 L
+end TR
+start L
+End L at 8 5 L
+end L
+start R
+End R at 8 7 #
+end R
+start BL
+End BL at 9 5 L
+end BL
+start B
+End B at 9 6 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 8, x 7 (#)
+start TL
+End TL at 7 6 L
+end TL
+start Top
+End Top at 7 7 L
+end Top
+start TR
+End TR at 7 8 L
+end TR
+start L
+End L at 8 6 L
+end L
+start R
+End R at 8 9 L
+end R
+start BL
+End BL at 9 6 #
+end BL
+start B
+end B
+start BR
+End BR at 9 8 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 8, x 9 (L)
+start TL
+End TL at 7 8 L
+end TL
+start Top
+End Top at 7 9 #
+end Top
+start TR
+end TR
+start L
+End L at 8 7 #
+end L
+start R
+end R
+start BL
+End BL at 9 8 L
+end BL
+start B
+End B at 9 9 #
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 8 0 #
+end Top
+start TR
+End TR at 7 2 L
+end TR
+start L
+end L
+start R
+End R at 9 2 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 9, x 2 (L)
+start TL
+End TL at 7 0 L
+end TL
+start Top
+End Top at 8 2 L
+end Top
+start TR
+End TR at 8 3 L
+end TR
+start L
+End L at 9 0 #
+end L
+start R
+End R at 9 3 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 9, x 3 (#)
+start TL
+End TL at 8 2 L
+end TL
+start Top
+End Top at 8 3 L
+end Top
+start TR
+End TR at 8 4 L
+end TR
+start L
+End L at 9 2 L
+end L
+start R
+End R at 9 4 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 9, x 4 (L)
+start TL
+End TL at 8 3 L
+end TL
+start Top
+End Top at 8 4 L
+end Top
+start TR
+End TR at 8 5 L
+end TR
+start L
+End L at 9 3 #
+end L
+start R
+End R at 9 5 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 9, x 5 (L)
+start TL
+End TL at 8 4 L
+end TL
+start Top
+End Top at 8 5 L
+end Top
+start TR
+End TR at 8 6 L
+end TR
+start L
+End L at 9 4 L
+end L
+start R
+End R at 9 6 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 9, x 6 (#)
+start TL
+End TL at 8 5 L
+end TL
+start Top
+End Top at 8 6 L
+end Top
+start TR
+End TR at 8 7 #
+end TR
+start L
+End L at 9 5 L
+end L
+start R
+End R at 9 8 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 9, x 8 (L)
+start TL
+End TL at 8 7 #
+end TL
+start Top
+End Top at 7 8 L
+end Top
+start TR
+End TR at 8 9 L
+end TR
+start L
+End L at 9 6 #
+end L
+start R
+End R at 9 9 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 9 (#)
+start TL
+End TL at 7 7 L
+end TL
+start Top
+End Top at 8 9 L
+end Top
+start TR
+end TR
+start L
+End L at 9 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+#.L#.L#.L#
+#LLLLLL.LL
+L.L.L..#..
+##L#.#L.L#
+L.L#.#L.L#
+#.L####.LL
+..#.#.....
+LLL###LLL#
+#.LLLLL#.L
+#.L#LL#.L#
+
+
+**********************************
+====================================
+Current: y 0, x 0 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 0 2 L
+end R
+start BL
+end BL
+start B
+End B at 1 0 #
+end B
+start BR
+End BR at 1 1 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 0, x 2 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 0 #
+end L
+start R
+End R at 0 3 #
+end R
+start BL
+End BL at 1 1 L
+end BL
+start B
+End B at 1 2 L
+end B
+start BR
+End BR at 1 3 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 0, x 3 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 2 L
+end L
+start R
+End R at 0 5 L
+end R
+start BL
+End BL at 1 2 L
+end BL
+start B
+End B at 1 3 L
+end B
+start BR
+End BR at 1 4 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 0, x 5 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 3 #
+end L
+start R
+End R at 0 6 #
+end R
+start BL
+End BL at 1 4 L
+end BL
+start B
+End B at 1 5 L
+end B
+start BR
+End BR at 1 6 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 0, x 6 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 5 L
+end L
+start R
+End R at 0 8 L
+end R
+start BL
+End BL at 1 5 L
+end BL
+start B
+End B at 1 6 L
+end B
+start BR
+End BR at 3 9 #
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 0, x 8 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 6 #
+end L
+start R
+End R at 0 9 #
+end R
+start BL
+End BL at 3 5 #
+end BL
+start B
+End B at 1 8 L
+end B
+start BR
+End BR at 1 9 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 0, x 9 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 8 L
+end L
+start R
+end R
+start BL
+End BL at 1 8 L
+end BL
+start B
+End B at 1 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 1, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 0 0 #
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 1 1 L
+end R
+start BL
+end BL
+start B
+End B at 2 0 L
+end B
+start BR
+End BR at 3 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 1, x 1 (L)
+start TL
+End TL at 0 0 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 2 L
+end TR
+start L
+End L at 1 0 #
+end L
+start R
+End R at 1 2 L
+end R
+start BL
+End BL at 2 0 L
+end BL
+start B
+End B at 3 1 #
+end B
+start BR
+End BR at 2 2 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 1, x 2 (L)
+start TL
+end TL
+start Top
+End Top at 0 2 L
+end Top
+start TR
+End TR at 0 3 #
+end TR
+start L
+End L at 1 1 L
+end L
+start R
+End R at 1 3 L
+end R
+start BL
+End BL at 3 0 #
+end BL
+start B
+End B at 2 2 L
+end B
+start BR
+End BR at 4 5 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 1, x 3 (L)
+start TL
+End TL at 0 2 L
+end TL
+start Top
+End Top at 0 3 #
+end Top
+start TR
+end TR
+start L
+End L at 1 2 L
+end L
+start R
+End R at 1 4 L
+end R
+start BL
+End BL at 2 2 L
+end BL
+start B
+End B at 3 3 #
+end B
+start BR
+End BR at 2 4 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 4 (L)
+start TL
+End TL at 0 3 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 5 L
+end TR
+start L
+End L at 1 3 L
+end L
+start R
+End R at 1 5 L
+end R
+start BL
+End BL at 3 2 L
+end BL
+start B
+End B at 2 4 L
+end B
+start BR
+End BR at 3 6 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 1, x 5 (L)
+start TL
+end TL
+start Top
+End Top at 0 5 L
+end Top
+start TR
+End TR at 0 6 #
+end TR
+start L
+End L at 1 4 L
+end L
+start R
+End R at 1 6 L
+end R
+start BL
+End BL at 2 4 L
+end BL
+start B
+End B at 3 5 #
+end B
+start BR
+End BR at 4 8 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 6 (L)
+start TL
+End TL at 0 5 L
+end TL
+start Top
+End Top at 0 6 #
+end Top
+start TR
+end TR
+start L
+End L at 1 5 L
+end L
+start R
+End R at 1 8 L
+end R
+start BL
+End BL at 4 3 #
+end BL
+start B
+End B at 3 6 L
+end B
+start BR
+End BR at 2 7 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 1, x 8 (L)
+start TL
+end TL
+start Top
+End Top at 0 8 L
+end Top
+start TR
+End TR at 0 9 #
+end TR
+start L
+End L at 1 6 L
+end L
+start R
+End R at 1 9 L
+end R
+start BL
+End BL at 2 7 #
+end BL
+start B
+End B at 3 8 L
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 9 (L)
+start TL
+End TL at 0 8 L
+end TL
+start Top
+End Top at 0 9 #
+end Top
+start TR
+end TR
+start L
+End L at 1 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 6 L
+end BL
+start B
+End B at 3 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 2, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 1 0 #
+end Top
+start TR
+End TR at 1 1 L
+end TR
+start L
+end L
+start R
+End R at 2 2 L
+end R
+start BL
+end BL
+start B
+End B at 3 0 #
+end B
+start BR
+End BR at 3 1 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 2, x 2 (L)
+start TL
+End TL at 1 1 L
+end TL
+start Top
+End Top at 1 2 L
+end Top
+start TR
+End TR at 1 3 L
+end TR
+start L
+End L at 2 0 L
+end L
+start R
+End R at 2 4 L
+end R
+start BL
+End BL at 3 1 #
+end BL
+start B
+End B at 3 2 L
+end B
+start BR
+End BR at 3 3 #
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 2, x 4 (L)
+start TL
+End TL at 1 3 L
+end TL
+start Top
+End Top at 1 4 L
+end Top
+start TR
+End TR at 1 5 L
+end TR
+start L
+End L at 2 2 L
+end L
+start R
+End R at 2 7 #
+end R
+start BL
+End BL at 3 3 #
+end BL
+start B
+End B at 5 4 #
+end B
+start BR
+End BR at 3 5 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 2, x 7 (#)
+start TL
+End TL at 1 6 L
+end TL
+start Top
+end Top
+start TR
+End TR at 1 8 L
+end TR
+start L
+End L at 2 4 L
+end L
+start R
+end R
+start BL
+End BL at 3 6 L
+end BL
+start B
+End B at 7 7 L
+end B
+start BR
+End BR at 3 8 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 3, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 2 0 L
+end Top
+start TR
+End TR at 1 2 L
+end TR
+start L
+end L
+start R
+End R at 3 1 #
+end R
+start BL
+end BL
+start B
+End B at 4 0 L
+end B
+start BR
+End BR at 5 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 3, x 1 (#)
+start TL
+End TL at 2 0 L
+end TL
+start Top
+End Top at 1 1 L
+end Top
+start TR
+End TR at 2 2 L
+end TR
+start L
+End L at 3 0 #
+end L
+start R
+End R at 3 2 L
+end R
+start BL
+End BL at 4 0 L
+end BL
+start B
+End B at 7 1 L
+end B
+start BR
+End BR at 4 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 3, x 2 (L)
+start TL
+End TL at 1 0 #
+end TL
+start Top
+End Top at 2 2 L
+end Top
+start TR
+End TR at 1 4 L
+end TR
+start L
+End L at 3 1 #
+end L
+start R
+End R at 3 3 #
+end R
+start BL
+End BL at 5 0 #
+end BL
+start B
+End B at 4 2 L
+end B
+start BR
+End BR at 4 3 #
+end BR
+
+Occupati: 5
+originale: L -> L (occupati: 5)
+====================================
+Current: y 3, x 3 (#)
+start TL
+End TL at 2 2 L
+end TL
+start Top
+End Top at 1 3 L
+end Top
+start TR
+End TR at 2 4 L
+end TR
+start L
+End L at 3 2 L
+end L
+start R
+End R at 3 5 #
+end R
+start BL
+End BL at 4 2 L
+end BL
+start B
+End B at 4 3 #
+end B
+start BR
+End BR at 5 5 #
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 3, x 5 (#)
+start TL
+End TL at 2 4 L
+end TL
+start Top
+End Top at 1 5 L
+end Top
+start TR
+End TR at 0 8 L
+end TR
+start L
+End L at 3 3 #
+end L
+start R
+End R at 3 6 L
+end R
+start BL
+End BL at 5 3 #
+end BL
+start B
+End B at 4 5 #
+end B
+start BR
+End BR at 4 6 L
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 3, x 6 (L)
+start TL
+End TL at 1 4 L
+end TL
+start Top
+End Top at 1 6 L
+end Top
+start TR
+End TR at 2 7 #
+end TR
+start L
+End L at 3 5 #
+end L
+start R
+End R at 3 8 L
+end R
+start BL
+End BL at 4 5 #
+end BL
+start B
+End B at 4 6 L
+end B
+start BR
+End BR at 5 8 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 3, x 8 (L)
+start TL
+End TL at 2 7 #
+end TL
+start Top
+End Top at 1 8 L
+end Top
+start TR
+end TR
+start L
+End L at 3 6 L
+end L
+start R
+End R at 3 9 #
+end R
+start BL
+End BL at 5 6 #
+end BL
+start B
+End B at 4 8 L
+end B
+start BR
+End BR at 4 9 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 3, x 9 (#)
+start TL
+End TL at 0 6 #
+end TL
+start Top
+End Top at 1 9 L
+end Top
+start TR
+end TR
+start L
+End L at 3 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 8 L
+end BL
+start B
+End B at 4 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: # -> # (occupati: 2)
+====================================
+Current: y 4, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 3 0 #
+end Top
+start TR
+End TR at 3 1 #
+end TR
+start L
+end L
+start R
+End R at 4 2 L
+end R
+start BL
+end BL
+start B
+End B at 5 0 #
+end B
+start BR
+End BR at 6 2 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 4, x 2 (L)
+start TL
+End TL at 3 1 #
+end TL
+start Top
+End Top at 3 2 L
+end Top
+start TR
+End TR at 3 3 #
+end TR
+start L
+End L at 4 0 L
+end L
+start R
+End R at 4 3 #
+end R
+start BL
+end BL
+start B
+End B at 5 2 L
+end B
+start BR
+End BR at 5 3 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 4, x 3 (#)
+start TL
+End TL at 3 2 L
+end TL
+start Top
+End Top at 3 3 #
+end Top
+start TR
+End TR at 1 6 L
+end TR
+start L
+End L at 4 2 L
+end L
+start R
+End R at 4 5 #
+end R
+start BL
+End BL at 5 2 L
+end BL
+start B
+End B at 5 3 #
+end B
+start BR
+End BR at 5 4 #
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 4, x 5 (#)
+start TL
+End TL at 1 2 L
+end TL
+start Top
+End Top at 3 5 #
+end Top
+start TR
+End TR at 3 6 L
+end TR
+start L
+End L at 4 3 #
+end L
+start R
+End R at 4 6 L
+end R
+start BL
+End BL at 5 4 #
+end BL
+start B
+End B at 5 5 #
+end B
+start BR
+End BR at 5 6 #
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 4, x 6 (L)
+start TL
+End TL at 3 5 #
+end TL
+start Top
+End Top at 3 6 L
+end Top
+start TR
+End TR at 1 9 L
+end TR
+start L
+End L at 4 5 #
+end L
+start R
+End R at 4 8 L
+end R
+start BL
+End BL at 5 5 #
+end BL
+start B
+End B at 5 6 #
+end B
+start BR
+End BR at 7 9 #
+end BR
+
+Occupati: 5
+originale: L -> L (occupati: 5)
+====================================
+Current: y 4, x 8 (L)
+start TL
+End TL at 1 5 L
+end TL
+start Top
+End Top at 3 8 L
+end Top
+start TR
+End TR at 3 9 #
+end TR
+start L
+End L at 4 6 L
+end L
+start R
+End R at 4 9 #
+end R
+start BL
+End BL at 7 5 #
+end BL
+start B
+End B at 5 8 L
+end B
+start BR
+End BR at 5 9 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 4, x 9 (#)
+start TL
+End TL at 3 8 L
+end TL
+start Top
+End Top at 3 9 #
+end Top
+start TR
+end TR
+start L
+End L at 4 8 L
+end L
+start R
+end R
+start BL
+End BL at 5 8 L
+end BL
+start B
+End B at 5 9 L
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 5, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 4 0 L
+end Top
+start TR
+End TR at 3 2 L
+end TR
+start L
+end L
+start R
+End R at 5 2 L
+end R
+start BL
+end BL
+start B
+End B at 7 0 L
+end B
+start BR
+End BR at 7 2 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 5, x 2 (L)
+start TL
+End TL at 3 0 #
+end TL
+start Top
+End Top at 4 2 L
+end Top
+start TR
+End TR at 4 3 #
+end TR
+start L
+End L at 5 0 #
+end L
+start R
+End R at 5 3 #
+end R
+start BL
+End BL at 7 0 L
+end BL
+start B
+End B at 6 2 #
+end B
+start BR
+End BR at 7 4 #
+end BR
+
+Occupati: 6
+originale: L -> L (occupati: 6)
+====================================
+Current: y 5, x 3 (#)
+start TL
+End TL at 4 2 L
+end TL
+start Top
+End Top at 4 3 #
+end Top
+start TR
+End TR at 3 5 #
+end TR
+start L
+End L at 5 2 L
+end L
+start R
+End R at 5 4 #
+end R
+start BL
+End BL at 6 2 #
+end BL
+start B
+End B at 7 3 #
+end B
+start BR
+End BR at 6 4 #
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 5, x 4 (#)
+start TL
+End TL at 4 3 #
+end TL
+start Top
+End Top at 2 4 L
+end Top
+start TR
+End TR at 4 5 #
+end TR
+start L
+End L at 5 3 #
+end L
+start R
+End R at 5 5 #
+end R
+start BL
+End BL at 7 2 L
+end BL
+start B
+End B at 6 4 #
+end B
+start BR
+End BR at 7 6 L
+end BR
+
+Occupati: 5
+originale: # -> L (occupati: 5)
+====================================
+Current: y 5, x 5 (#)
+start TL
+End TL at 3 3 #
+end TL
+start Top
+End Top at 4 5 #
+end Top
+start TR
+End TR at 4 6 L
+end TR
+start L
+End L at 5 4 #
+end L
+start R
+End R at 5 6 #
+end R
+start BL
+End BL at 6 4 #
+end BL
+start B
+End B at 7 5 #
+end B
+start BR
+End BR at 7 7 L
+end BR
+
+Occupati: 6
+originale: # -> L (occupati: 6)
+====================================
+Current: y 5, x 6 (#)
+start TL
+End TL at 4 5 #
+end TL
+start Top
+End Top at 4 6 L
+end Top
+start TR
+End TR at 3 8 L
+end TR
+start L
+End L at 5 5 #
+end L
+start R
+End R at 5 8 L
+end R
+start BL
+End BL at 7 4 #
+end BL
+start B
+End B at 7 6 L
+end B
+start BR
+End BR at 7 8 L
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 5, x 8 (L)
+start TL
+End TL at 3 6 L
+end TL
+start Top
+End Top at 4 8 L
+end Top
+start TR
+End TR at 4 9 #
+end TR
+start L
+End L at 5 6 #
+end L
+start R
+End R at 5 9 L
+end R
+start BL
+End BL at 7 6 L
+end BL
+start B
+End B at 7 8 L
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 5, x 9 (L)
+start TL
+End TL at 4 8 L
+end TL
+start Top
+End Top at 4 9 #
+end Top
+start TR
+end TR
+start L
+End L at 5 8 L
+end L
+start R
+end R
+start BL
+End BL at 7 7 L
+end BL
+start B
+End B at 7 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 6, x 2 (#)
+start TL
+End TL at 4 0 L
+end TL
+start Top
+End Top at 5 2 L
+end Top
+start TR
+End TR at 5 3 #
+end TR
+start L
+end L
+start R
+End R at 6 4 #
+end R
+start BL
+End BL at 7 1 L
+end BL
+start B
+End B at 7 2 L
+end B
+start BR
+End BR at 7 3 #
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 6, x 4 (#)
+start TL
+End TL at 5 3 #
+end TL
+start Top
+End Top at 5 4 #
+end Top
+start TR
+End TR at 5 5 #
+end TR
+start L
+End L at 6 2 #
+end L
+start R
+end R
+start BL
+End BL at 7 3 #
+end BL
+start B
+End B at 7 4 #
+end B
+start BR
+End BR at 7 5 #
+end BR
+
+Occupati: 7
+originale: # -> L (occupati: 7)
+====================================
+Current: y 7, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 5 0 #
+end Top
+start TR
+End TR at 5 2 L
+end TR
+start L
+end L
+start R
+End R at 7 1 L
+end R
+start BL
+end BL
+start B
+End B at 8 0 #
+end B
+start BR
+End BR at 9 2 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 7, x 1 (L)
+start TL
+end TL
+start Top
+End Top at 3 1 #
+end Top
+start TR
+End TR at 6 2 #
+end TR
+start L
+End L at 7 0 L
+end L
+start R
+End R at 7 2 L
+end R
+start BL
+End BL at 8 0 #
+end BL
+start B
+end B
+start BR
+End BR at 8 2 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 2 (L)
+start TL
+End TL at 5 0 #
+end TL
+start Top
+End Top at 6 2 #
+end Top
+start TR
+End TR at 5 4 #
+end TR
+start L
+End L at 7 1 L
+end L
+start R
+End R at 7 3 #
+end R
+start BL
+End BL at 9 0 #
+end BL
+start B
+End B at 8 2 L
+end B
+start BR
+End BR at 8 3 L
+end BR
+
+Occupati: 5
+originale: L -> L (occupati: 5)
+====================================
+Current: y 7, x 3 (#)
+start TL
+End TL at 6 2 #
+end TL
+start Top
+End Top at 5 3 #
+end Top
+start TR
+End TR at 6 4 #
+end TR
+start L
+End L at 7 2 L
+end L
+start R
+End R at 7 4 #
+end R
+start BL
+End BL at 8 2 L
+end BL
+start B
+End B at 8 3 L
+end B
+start BR
+End BR at 8 4 L
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 7, x 4 (#)
+start TL
+End TL at 5 2 L
+end TL
+start Top
+End Top at 6 4 #
+end Top
+start TR
+End TR at 5 6 #
+end TR
+start L
+End L at 7 3 #
+end L
+start R
+End R at 7 5 #
+end R
+start BL
+End BL at 8 3 L
+end BL
+start B
+End B at 8 4 L
+end B
+start BR
+End BR at 8 5 L
+end BR
+
+Occupati: 4
+originale: # -> # (occupati: 4)
+====================================
+Current: y 7, x 5 (#)
+start TL
+End TL at 6 4 #
+end TL
+start Top
+End Top at 5 5 #
+end Top
+start TR
+End TR at 4 8 L
+end TR
+start L
+End L at 7 4 #
+end L
+start R
+End R at 7 6 L
+end R
+start BL
+End BL at 8 4 L
+end BL
+start B
+End B at 8 5 L
+end B
+start BR
+End BR at 8 6 L
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 7, x 6 (L)
+start TL
+End TL at 5 4 #
+end TL
+start Top
+End Top at 5 6 #
+end Top
+start TR
+End TR at 5 8 L
+end TR
+start L
+End L at 7 5 #
+end L
+start R
+End R at 7 7 L
+end R
+start BL
+End BL at 8 5 L
+end BL
+start B
+End B at 8 6 L
+end B
+start BR
+End BR at 8 7 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 7, x 7 (L)
+start TL
+End TL at 5 5 #
+end TL
+start Top
+End Top at 2 7 #
+end Top
+start TR
+End TR at 5 9 L
+end TR
+start L
+End L at 7 6 L
+end L
+start R
+End R at 7 8 L
+end R
+start BL
+End BL at 8 6 L
+end BL
+start B
+End B at 8 7 #
+end B
+start BR
+End BR at 9 9 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 7, x 8 (L)
+start TL
+End TL at 5 6 #
+end TL
+start Top
+End Top at 5 8 L
+end Top
+start TR
+end TR
+start L
+End L at 7 7 L
+end L
+start R
+End R at 7 9 #
+end R
+start BL
+End BL at 8 7 #
+end BL
+start B
+End B at 9 8 L
+end B
+start BR
+End BR at 8 9 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 9 (#)
+start TL
+End TL at 4 6 L
+end TL
+start Top
+End Top at 5 9 L
+end Top
+start TR
+end TR
+start L
+End L at 7 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+End B at 8 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 8, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 7 0 L
+end Top
+start TR
+End TR at 7 1 L
+end TR
+start L
+end L
+start R
+End R at 8 2 L
+end R
+start BL
+end BL
+start B
+End B at 9 0 #
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 8, x 2 (L)
+start TL
+End TL at 7 1 L
+end TL
+start Top
+End Top at 7 2 L
+end Top
+start TR
+End TR at 7 3 #
+end TR
+start L
+End L at 8 0 #
+end L
+start R
+End R at 8 3 L
+end R
+start BL
+end BL
+start B
+End B at 9 2 L
+end B
+start BR
+End BR at 9 3 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 8, x 3 (L)
+start TL
+End TL at 7 2 L
+end TL
+start Top
+End Top at 7 3 #
+end Top
+start TR
+End TR at 7 4 #
+end TR
+start L
+End L at 8 2 L
+end L
+start R
+End R at 8 4 L
+end R
+start BL
+End BL at 9 2 L
+end BL
+start B
+End B at 9 3 #
+end B
+start BR
+End BR at 9 4 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 8, x 4 (L)
+start TL
+End TL at 7 3 #
+end TL
+start Top
+End Top at 7 4 #
+end Top
+start TR
+End TR at 7 5 #
+end TR
+start L
+End L at 8 3 L
+end L
+start R
+End R at 8 5 L
+end R
+start BL
+End BL at 9 3 #
+end BL
+start B
+End B at 9 4 L
+end B
+start BR
+End BR at 9 5 L
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 8, x 5 (L)
+start TL
+End TL at 7 4 #
+end TL
+start Top
+End Top at 7 5 #
+end Top
+start TR
+End TR at 7 6 L
+end TR
+start L
+End L at 8 4 L
+end L
+start R
+End R at 8 6 L
+end R
+start BL
+End BL at 9 4 L
+end BL
+start B
+End B at 9 5 L
+end B
+start BR
+End BR at 9 6 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 8, x 6 (L)
+start TL
+End TL at 7 5 #
+end TL
+start Top
+End Top at 7 6 L
+end Top
+start TR
+End TR at 7 7 L
+end TR
+start L
+End L at 8 5 L
+end L
+start R
+End R at 8 7 #
+end R
+start BL
+End BL at 9 5 L
+end BL
+start B
+End B at 9 6 #
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 8, x 7 (#)
+start TL
+End TL at 7 6 L
+end TL
+start Top
+End Top at 7 7 L
+end Top
+start TR
+End TR at 7 8 L
+end TR
+start L
+End L at 8 6 L
+end L
+start R
+End R at 8 9 L
+end R
+start BL
+End BL at 9 6 #
+end BL
+start B
+end B
+start BR
+End BR at 9 8 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 8, x 9 (L)
+start TL
+End TL at 7 8 L
+end TL
+start Top
+End Top at 7 9 #
+end Top
+start TR
+end TR
+start L
+End L at 8 7 #
+end L
+start R
+end R
+start BL
+End BL at 9 8 L
+end BL
+start B
+End B at 9 9 #
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 8 0 #
+end Top
+start TR
+End TR at 7 2 L
+end TR
+start L
+end L
+start R
+End R at 9 2 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 9, x 2 (L)
+start TL
+End TL at 7 0 L
+end TL
+start Top
+End Top at 8 2 L
+end Top
+start TR
+End TR at 8 3 L
+end TR
+start L
+End L at 9 0 #
+end L
+start R
+End R at 9 3 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 9, x 3 (#)
+start TL
+End TL at 8 2 L
+end TL
+start Top
+End Top at 8 3 L
+end Top
+start TR
+End TR at 8 4 L
+end TR
+start L
+End L at 9 2 L
+end L
+start R
+End R at 9 4 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 9, x 4 (L)
+start TL
+End TL at 8 3 L
+end TL
+start Top
+End Top at 8 4 L
+end Top
+start TR
+End TR at 8 5 L
+end TR
+start L
+End L at 9 3 #
+end L
+start R
+End R at 9 5 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 9, x 5 (L)
+start TL
+End TL at 8 4 L
+end TL
+start Top
+End Top at 8 5 L
+end Top
+start TR
+End TR at 8 6 L
+end TR
+start L
+End L at 9 4 L
+end L
+start R
+End R at 9 6 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 9, x 6 (#)
+start TL
+End TL at 8 5 L
+end TL
+start Top
+End Top at 8 6 L
+end Top
+start TR
+End TR at 8 7 #
+end TR
+start L
+End L at 9 5 L
+end L
+start R
+End R at 9 8 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 9, x 8 (L)
+start TL
+End TL at 8 7 #
+end TL
+start Top
+End Top at 7 8 L
+end Top
+start TR
+End TR at 8 9 L
+end TR
+start L
+End L at 9 6 #
+end L
+start R
+End R at 9 9 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 9 (#)
+start TL
+End TL at 7 7 L
+end TL
+start Top
+End Top at 8 9 L
+end Top
+start TR
+end TR
+start L
+End L at 9 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+#.L#.L#.L#
+#LLLLLL.LL
+L.L.L..#..
+##L#.#L.L#
+L.L#.LL.L#
+#.LLLL#.LL
+..#.L.....
+LLL###LLL#
+#.LLLLL#.L
+#.L#LL#.L#
+
+
+**********************************
+====================================
+Current: y 0, x 0 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 0 2 L
+end R
+start BL
+end BL
+start B
+End B at 1 0 #
+end B
+start BR
+End BR at 1 1 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 0, x 2 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 0 #
+end L
+start R
+End R at 0 3 #
+end R
+start BL
+End BL at 1 1 L
+end BL
+start B
+End B at 1 2 L
+end B
+start BR
+End BR at 1 3 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 0, x 3 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 2 L
+end L
+start R
+End R at 0 5 L
+end R
+start BL
+End BL at 1 2 L
+end BL
+start B
+End B at 1 3 L
+end B
+start BR
+End BR at 1 4 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 0, x 5 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 3 #
+end L
+start R
+End R at 0 6 #
+end R
+start BL
+End BL at 1 4 L
+end BL
+start B
+End B at 1 5 L
+end B
+start BR
+End BR at 1 6 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 0, x 6 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 5 L
+end L
+start R
+End R at 0 8 L
+end R
+start BL
+End BL at 1 5 L
+end BL
+start B
+End B at 1 6 L
+end B
+start BR
+End BR at 3 9 #
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 0, x 8 (L)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 6 #
+end L
+start R
+End R at 0 9 #
+end R
+start BL
+End BL at 3 5 #
+end BL
+start B
+End B at 1 8 L
+end B
+start BR
+End BR at 1 9 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 0, x 9 (#)
+start TL
+end TL
+start Top
+end Top
+start TR
+end TR
+start L
+End L at 0 8 L
+end L
+start R
+end R
+start BL
+End BL at 1 8 L
+end BL
+start B
+End B at 1 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 1, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 0 0 #
+end Top
+start TR
+end TR
+start L
+end L
+start R
+End R at 1 1 L
+end R
+start BL
+end BL
+start B
+End B at 2 0 L
+end B
+start BR
+End BR at 3 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 1, x 1 (L)
+start TL
+End TL at 0 0 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 2 L
+end TR
+start L
+End L at 1 0 #
+end L
+start R
+End R at 1 2 L
+end R
+start BL
+End BL at 2 0 L
+end BL
+start B
+End B at 3 1 #
+end B
+start BR
+End BR at 2 2 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 1, x 2 (L)
+start TL
+end TL
+start Top
+End Top at 0 2 L
+end Top
+start TR
+End TR at 0 3 #
+end TR
+start L
+End L at 1 1 L
+end L
+start R
+End R at 1 3 L
+end R
+start BL
+End BL at 3 0 #
+end BL
+start B
+End B at 2 2 L
+end B
+start BR
+End BR at 4 5 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 3 (L)
+start TL
+End TL at 0 2 L
+end TL
+start Top
+End Top at 0 3 #
+end Top
+start TR
+end TR
+start L
+End L at 1 2 L
+end L
+start R
+End R at 1 4 L
+end R
+start BL
+End BL at 2 2 L
+end BL
+start B
+End B at 3 3 #
+end B
+start BR
+End BR at 2 4 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 4 (L)
+start TL
+End TL at 0 3 #
+end TL
+start Top
+end Top
+start TR
+End TR at 0 5 L
+end TR
+start L
+End L at 1 3 L
+end L
+start R
+End R at 1 5 L
+end R
+start BL
+End BL at 3 2 L
+end BL
+start B
+End B at 2 4 L
+end B
+start BR
+End BR at 3 6 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 1, x 5 (L)
+start TL
+end TL
+start Top
+End Top at 0 5 L
+end Top
+start TR
+End TR at 0 6 #
+end TR
+start L
+End L at 1 4 L
+end L
+start R
+End R at 1 6 L
+end R
+start BL
+End BL at 2 4 L
+end BL
+start B
+End B at 3 5 #
+end B
+start BR
+End BR at 4 8 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 6 (L)
+start TL
+End TL at 0 5 L
+end TL
+start Top
+End Top at 0 6 #
+end Top
+start TR
+end TR
+start L
+End L at 1 5 L
+end L
+start R
+End R at 1 8 L
+end R
+start BL
+End BL at 4 3 #
+end BL
+start B
+End B at 3 6 L
+end B
+start BR
+End BR at 2 7 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 1, x 8 (L)
+start TL
+end TL
+start Top
+End Top at 0 8 L
+end Top
+start TR
+End TR at 0 9 #
+end TR
+start L
+End L at 1 6 L
+end L
+start R
+End R at 1 9 L
+end R
+start BL
+End BL at 2 7 #
+end BL
+start B
+End B at 3 8 L
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 1, x 9 (L)
+start TL
+End TL at 0 8 L
+end TL
+start Top
+End Top at 0 9 #
+end Top
+start TR
+end TR
+start L
+End L at 1 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 6 L
+end BL
+start B
+End B at 3 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 2, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 1 0 #
+end Top
+start TR
+End TR at 1 1 L
+end TR
+start L
+end L
+start R
+End R at 2 2 L
+end R
+start BL
+end BL
+start B
+End B at 3 0 #
+end B
+start BR
+End BR at 3 1 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 2, x 2 (L)
+start TL
+End TL at 1 1 L
+end TL
+start Top
+End Top at 1 2 L
+end Top
+start TR
+End TR at 1 3 L
+end TR
+start L
+End L at 2 0 L
+end L
+start R
+End R at 2 4 L
+end R
+start BL
+End BL at 3 1 #
+end BL
+start B
+End B at 3 2 L
+end B
+start BR
+End BR at 3 3 #
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 2, x 4 (L)
+start TL
+End TL at 1 3 L
+end TL
+start Top
+End Top at 1 4 L
+end Top
+start TR
+End TR at 1 5 L
+end TR
+start L
+End L at 2 2 L
+end L
+start R
+End R at 2 7 #
+end R
+start BL
+End BL at 3 3 #
+end BL
+start B
+End B at 5 4 L
+end B
+start BR
+End BR at 3 5 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 2, x 7 (#)
+start TL
+End TL at 1 6 L
+end TL
+start Top
+end Top
+start TR
+End TR at 1 8 L
+end TR
+start L
+End L at 2 4 L
+end L
+start R
+end R
+start BL
+End BL at 3 6 L
+end BL
+start B
+End B at 7 7 L
+end B
+start BR
+End BR at 3 8 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 3, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 2 0 L
+end Top
+start TR
+End TR at 1 2 L
+end TR
+start L
+end L
+start R
+End R at 3 1 #
+end R
+start BL
+end BL
+start B
+End B at 4 0 L
+end B
+start BR
+End BR at 5 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 3, x 1 (#)
+start TL
+End TL at 2 0 L
+end TL
+start Top
+End Top at 1 1 L
+end Top
+start TR
+End TR at 2 2 L
+end TR
+start L
+End L at 3 0 #
+end L
+start R
+End R at 3 2 L
+end R
+start BL
+End BL at 4 0 L
+end BL
+start B
+End B at 7 1 L
+end B
+start BR
+End BR at 4 2 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 3, x 2 (L)
+start TL
+End TL at 1 0 #
+end TL
+start Top
+End Top at 2 2 L
+end Top
+start TR
+End TR at 1 4 L
+end TR
+start L
+End L at 3 1 #
+end L
+start R
+End R at 3 3 #
+end R
+start BL
+End BL at 5 0 #
+end BL
+start B
+End B at 4 2 L
+end B
+start BR
+End BR at 4 3 #
+end BR
+
+Occupati: 5
+originale: L -> L (occupati: 5)
+====================================
+Current: y 3, x 3 (#)
+start TL
+End TL at 2 2 L
+end TL
+start Top
+End Top at 1 3 L
+end Top
+start TR
+End TR at 2 4 L
+end TR
+start L
+End L at 3 2 L
+end L
+start R
+End R at 3 5 #
+end R
+start BL
+End BL at 4 2 L
+end BL
+start B
+End B at 4 3 #
+end B
+start BR
+End BR at 5 5 L
+end BR
+
+Occupati: 2
+originale: # -> # (occupati: 2)
+====================================
+Current: y 3, x 5 (#)
+start TL
+End TL at 2 4 L
+end TL
+start Top
+End Top at 1 5 L
+end Top
+start TR
+End TR at 0 8 L
+end TR
+start L
+End L at 3 3 #
+end L
+start R
+End R at 3 6 L
+end R
+start BL
+End BL at 5 3 L
+end BL
+start B
+End B at 4 5 L
+end B
+start BR
+End BR at 4 6 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 3, x 6 (L)
+start TL
+End TL at 1 4 L
+end TL
+start Top
+End Top at 1 6 L
+end Top
+start TR
+End TR at 2 7 #
+end TR
+start L
+End L at 3 5 #
+end L
+start R
+End R at 3 8 L
+end R
+start BL
+End BL at 4 5 L
+end BL
+start B
+End B at 4 6 L
+end B
+start BR
+End BR at 5 8 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 3, x 8 (L)
+start TL
+End TL at 2 7 #
+end TL
+start Top
+End Top at 1 8 L
+end Top
+start TR
+end TR
+start L
+End L at 3 6 L
+end L
+start R
+End R at 3 9 #
+end R
+start BL
+End BL at 5 6 #
+end BL
+start B
+End B at 4 8 L
+end B
+start BR
+End BR at 4 9 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 3, x 9 (#)
+start TL
+End TL at 0 6 #
+end TL
+start Top
+End Top at 1 9 L
+end Top
+start TR
+end TR
+start L
+End L at 3 8 L
+end L
+start R
+end R
+start BL
+End BL at 4 8 L
+end BL
+start B
+End B at 4 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: # -> # (occupati: 2)
+====================================
+Current: y 4, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 3 0 #
+end Top
+start TR
+End TR at 3 1 #
+end TR
+start L
+end L
+start R
+End R at 4 2 L
+end R
+start BL
+end BL
+start B
+End B at 5 0 #
+end B
+start BR
+End BR at 6 2 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 4, x 2 (L)
+start TL
+End TL at 3 1 #
+end TL
+start Top
+End Top at 3 2 L
+end Top
+start TR
+End TR at 3 3 #
+end TR
+start L
+End L at 4 0 L
+end L
+start R
+End R at 4 3 #
+end R
+start BL
+end BL
+start B
+End B at 5 2 L
+end B
+start BR
+End BR at 5 3 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 4, x 3 (#)
+start TL
+End TL at 3 2 L
+end TL
+start Top
+End Top at 3 3 #
+end Top
+start TR
+End TR at 1 6 L
+end TR
+start L
+End L at 4 2 L
+end L
+start R
+End R at 4 5 L
+end R
+start BL
+End BL at 5 2 L
+end BL
+start B
+End B at 5 3 L
+end B
+start BR
+End BR at 5 4 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 4, x 5 (L)
+start TL
+End TL at 1 2 L
+end TL
+start Top
+End Top at 3 5 #
+end Top
+start TR
+End TR at 3 6 L
+end TR
+start L
+End L at 4 3 #
+end L
+start R
+End R at 4 6 L
+end R
+start BL
+End BL at 5 4 L
+end BL
+start B
+End B at 5 5 L
+end B
+start BR
+End BR at 5 6 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 4, x 6 (L)
+start TL
+End TL at 3 5 #
+end TL
+start Top
+End Top at 3 6 L
+end Top
+start TR
+End TR at 1 9 L
+end TR
+start L
+End L at 4 5 L
+end L
+start R
+End R at 4 8 L
+end R
+start BL
+End BL at 5 5 L
+end BL
+start B
+End B at 5 6 #
+end B
+start BR
+End BR at 7 9 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 4, x 8 (L)
+start TL
+End TL at 1 5 L
+end TL
+start Top
+End Top at 3 8 L
+end Top
+start TR
+End TR at 3 9 #
+end TR
+start L
+End L at 4 6 L
+end L
+start R
+End R at 4 9 #
+end R
+start BL
+End BL at 7 5 #
+end BL
+start B
+End B at 5 8 L
+end B
+start BR
+End BR at 5 9 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 4, x 9 (#)
+start TL
+End TL at 3 8 L
+end TL
+start Top
+End Top at 3 9 #
+end Top
+start TR
+end TR
+start L
+End L at 4 8 L
+end L
+start R
+end R
+start BL
+End BL at 5 8 L
+end BL
+start B
+End B at 5 9 L
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 5, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 4 0 L
+end Top
+start TR
+End TR at 3 2 L
+end TR
+start L
+end L
+start R
+End R at 5 2 L
+end R
+start BL
+end BL
+start B
+End B at 7 0 L
+end B
+start BR
+End BR at 7 2 L
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 5, x 2 (L)
+start TL
+End TL at 3 0 #
+end TL
+start Top
+End Top at 4 2 L
+end Top
+start TR
+End TR at 4 3 #
+end TR
+start L
+End L at 5 0 #
+end L
+start R
+End R at 5 3 L
+end R
+start BL
+End BL at 7 0 L
+end BL
+start B
+End B at 6 2 #
+end B
+start BR
+End BR at 7 4 #
+end BR
+
+Occupati: 5
+originale: L -> L (occupati: 5)
+====================================
+Current: y 5, x 3 (L)
+start TL
+End TL at 4 2 L
+end TL
+start Top
+End Top at 4 3 #
+end Top
+start TR
+End TR at 3 5 #
+end TR
+start L
+End L at 5 2 L
+end L
+start R
+End R at 5 4 L
+end R
+start BL
+End BL at 6 2 #
+end BL
+start B
+End B at 7 3 #
+end B
+start BR
+End BR at 6 4 L
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 5, x 4 (L)
+start TL
+End TL at 4 3 #
+end TL
+start Top
+End Top at 2 4 L
+end Top
+start TR
+End TR at 4 5 L
+end TR
+start L
+End L at 5 3 L
+end L
+start R
+End R at 5 5 L
+end R
+start BL
+End BL at 7 2 L
+end BL
+start B
+End B at 6 4 L
+end B
+start BR
+End BR at 7 6 L
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 5, x 5 (L)
+start TL
+End TL at 3 3 #
+end TL
+start Top
+End Top at 4 5 L
+end Top
+start TR
+End TR at 4 6 L
+end TR
+start L
+End L at 5 4 L
+end L
+start R
+End R at 5 6 #
+end R
+start BL
+End BL at 6 4 L
+end BL
+start B
+End B at 7 5 #
+end B
+start BR
+End BR at 7 7 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 5, x 6 (#)
+start TL
+End TL at 4 5 L
+end TL
+start Top
+End Top at 4 6 L
+end Top
+start TR
+End TR at 3 8 L
+end TR
+start L
+End L at 5 5 L
+end L
+start R
+End R at 5 8 L
+end R
+start BL
+End BL at 7 4 #
+end BL
+start B
+End B at 7 6 L
+end B
+start BR
+End BR at 7 8 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 5, x 8 (L)
+start TL
+End TL at 3 6 L
+end TL
+start Top
+End Top at 4 8 L
+end Top
+start TR
+End TR at 4 9 #
+end TR
+start L
+End L at 5 6 #
+end L
+start R
+End R at 5 9 L
+end R
+start BL
+End BL at 7 6 L
+end BL
+start B
+End B at 7 8 L
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 5, x 9 (L)
+start TL
+End TL at 4 8 L
+end TL
+start Top
+End Top at 4 9 #
+end Top
+start TR
+end TR
+start L
+End L at 5 8 L
+end L
+start R
+end R
+start BL
+End BL at 7 7 L
+end BL
+start B
+End B at 7 9 #
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 6, x 2 (#)
+start TL
+End TL at 4 0 L
+end TL
+start Top
+End Top at 5 2 L
+end Top
+start TR
+End TR at 5 3 L
+end TR
+start L
+end L
+start R
+End R at 6 4 L
+end R
+start BL
+End BL at 7 1 L
+end BL
+start B
+End B at 7 2 L
+end B
+start BR
+End BR at 7 3 #
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 6, x 4 (L)
+start TL
+End TL at 5 3 L
+end TL
+start Top
+End Top at 5 4 L
+end Top
+start TR
+End TR at 5 5 L
+end TR
+start L
+End L at 6 2 #
+end L
+start R
+end R
+start BL
+End BL at 7 3 #
+end BL
+start B
+End B at 7 4 #
+end B
+start BR
+End BR at 7 5 #
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 7, x 0 (L)
+start TL
+end TL
+start Top
+End Top at 5 0 #
+end Top
+start TR
+End TR at 5 2 L
+end TR
+start L
+end L
+start R
+End R at 7 1 L
+end R
+start BL
+end BL
+start B
+End B at 8 0 #
+end B
+start BR
+End BR at 9 2 L
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 7, x 1 (L)
+start TL
+end TL
+start Top
+End Top at 3 1 #
+end Top
+start TR
+End TR at 6 2 #
+end TR
+start L
+End L at 7 0 L
+end L
+start R
+End R at 7 2 L
+end R
+start BL
+End BL at 8 0 #
+end BL
+start B
+end B
+start BR
+End BR at 8 2 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 2 (L)
+start TL
+End TL at 5 0 #
+end TL
+start Top
+End Top at 6 2 #
+end Top
+start TR
+End TR at 5 4 L
+end TR
+start L
+End L at 7 1 L
+end L
+start R
+End R at 7 3 #
+end R
+start BL
+End BL at 9 0 #
+end BL
+start B
+End B at 8 2 L
+end B
+start BR
+End BR at 8 3 L
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 7, x 3 (#)
+start TL
+End TL at 6 2 #
+end TL
+start Top
+End Top at 5 3 L
+end Top
+start TR
+End TR at 6 4 L
+end TR
+start L
+End L at 7 2 L
+end L
+start R
+End R at 7 4 #
+end R
+start BL
+End BL at 8 2 L
+end BL
+start B
+End B at 8 3 L
+end B
+start BR
+End BR at 8 4 L
+end BR
+
+Occupati: 2
+originale: # -> # (occupati: 2)
+====================================
+Current: y 7, x 4 (#)
+start TL
+End TL at 5 2 L
+end TL
+start Top
+End Top at 6 4 L
+end Top
+start TR
+End TR at 5 6 #
+end TR
+start L
+End L at 7 3 #
+end L
+start R
+End R at 7 5 #
+end R
+start BL
+End BL at 8 3 L
+end BL
+start B
+End B at 8 4 L
+end B
+start BR
+End BR at 8 5 L
+end BR
+
+Occupati: 3
+originale: # -> # (occupati: 3)
+====================================
+Current: y 7, x 5 (#)
+start TL
+End TL at 6 4 L
+end TL
+start Top
+End Top at 5 5 L
+end Top
+start TR
+End TR at 4 8 L
+end TR
+start L
+End L at 7 4 #
+end L
+start R
+End R at 7 6 L
+end R
+start BL
+End BL at 8 4 L
+end BL
+start B
+End B at 8 5 L
+end B
+start BR
+End BR at 8 6 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 7, x 6 (L)
+start TL
+End TL at 5 4 L
+end TL
+start Top
+End Top at 5 6 #
+end Top
+start TR
+End TR at 5 8 L
+end TR
+start L
+End L at 7 5 #
+end L
+start R
+End R at 7 7 L
+end R
+start BL
+End BL at 8 5 L
+end BL
+start B
+End B at 8 6 L
+end B
+start BR
+End BR at 8 7 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 7 (L)
+start TL
+End TL at 5 5 L
+end TL
+start Top
+End Top at 2 7 #
+end Top
+start TR
+End TR at 5 9 L
+end TR
+start L
+End L at 7 6 L
+end L
+start R
+End R at 7 8 L
+end R
+start BL
+End BL at 8 6 L
+end BL
+start B
+End B at 8 7 #
+end B
+start BR
+End BR at 9 9 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 8 (L)
+start TL
+End TL at 5 6 #
+end TL
+start Top
+End Top at 5 8 L
+end Top
+start TR
+end TR
+start L
+End L at 7 7 L
+end L
+start R
+End R at 7 9 #
+end R
+start BL
+End BL at 8 7 #
+end BL
+start B
+End B at 9 8 L
+end B
+start BR
+End BR at 8 9 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 7, x 9 (#)
+start TL
+End TL at 4 6 L
+end TL
+start Top
+End Top at 5 9 L
+end Top
+start TR
+end TR
+start L
+End L at 7 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+End B at 8 9 L
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 8, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 7 0 L
+end Top
+start TR
+End TR at 7 1 L
+end TR
+start L
+end L
+start R
+End R at 8 2 L
+end R
+start BL
+end BL
+start B
+End B at 9 0 #
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 8, x 2 (L)
+start TL
+End TL at 7 1 L
+end TL
+start Top
+End Top at 7 2 L
+end Top
+start TR
+End TR at 7 3 #
+end TR
+start L
+End L at 8 0 #
+end L
+start R
+End R at 8 3 L
+end R
+start BL
+end BL
+start B
+End B at 9 2 L
+end B
+start BR
+End BR at 9 3 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 8, x 3 (L)
+start TL
+End TL at 7 2 L
+end TL
+start Top
+End Top at 7 3 #
+end Top
+start TR
+End TR at 7 4 #
+end TR
+start L
+End L at 8 2 L
+end L
+start R
+End R at 8 4 L
+end R
+start BL
+End BL at 9 2 L
+end BL
+start B
+End B at 9 3 #
+end B
+start BR
+End BR at 9 4 L
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 8, x 4 (L)
+start TL
+End TL at 7 3 #
+end TL
+start Top
+End Top at 7 4 #
+end Top
+start TR
+End TR at 7 5 #
+end TR
+start L
+End L at 8 3 L
+end L
+start R
+End R at 8 5 L
+end R
+start BL
+End BL at 9 3 #
+end BL
+start B
+End B at 9 4 L
+end B
+start BR
+End BR at 9 5 L
+end BR
+
+Occupati: 4
+originale: L -> L (occupati: 4)
+====================================
+Current: y 8, x 5 (L)
+start TL
+End TL at 7 4 #
+end TL
+start Top
+End Top at 7 5 #
+end Top
+start TR
+End TR at 7 6 L
+end TR
+start L
+End L at 8 4 L
+end L
+start R
+End R at 8 6 L
+end R
+start BL
+End BL at 9 4 L
+end BL
+start B
+End B at 9 5 L
+end B
+start BR
+End BR at 9 6 #
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 8, x 6 (L)
+start TL
+End TL at 7 5 #
+end TL
+start Top
+End Top at 7 6 L
+end Top
+start TR
+End TR at 7 7 L
+end TR
+start L
+End L at 8 5 L
+end L
+start R
+End R at 8 7 #
+end R
+start BL
+End BL at 9 5 L
+end BL
+start B
+End B at 9 6 #
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 8, x 7 (#)
+start TL
+End TL at 7 6 L
+end TL
+start Top
+End Top at 7 7 L
+end Top
+start TR
+End TR at 7 8 L
+end TR
+start L
+End L at 8 6 L
+end L
+start R
+End R at 8 9 L
+end R
+start BL
+End BL at 9 6 #
+end BL
+start B
+end B
+start BR
+End BR at 9 8 L
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 8, x 9 (L)
+start TL
+End TL at 7 8 L
+end TL
+start Top
+End Top at 7 9 #
+end Top
+start TR
+end TR
+start L
+End L at 8 7 #
+end L
+start R
+end R
+start BL
+End BL at 9 8 L
+end BL
+start B
+End B at 9 9 #
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 0 (#)
+start TL
+end TL
+start Top
+End Top at 8 0 #
+end Top
+start TR
+End TR at 7 2 L
+end TR
+start L
+end L
+start R
+End R at 9 2 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 9, x 2 (L)
+start TL
+End TL at 7 0 L
+end TL
+start Top
+End Top at 8 2 L
+end Top
+start TR
+End TR at 8 3 L
+end TR
+start L
+End L at 9 0 #
+end L
+start R
+End R at 9 3 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 2
+originale: L -> L (occupati: 2)
+====================================
+Current: y 9, x 3 (#)
+start TL
+End TL at 8 2 L
+end TL
+start Top
+End Top at 8 3 L
+end Top
+start TR
+End TR at 8 4 L
+end TR
+start L
+End L at 9 2 L
+end L
+start R
+End R at 9 4 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+====================================
+Current: y 9, x 4 (L)
+start TL
+End TL at 8 3 L
+end TL
+start Top
+End Top at 8 4 L
+end Top
+start TR
+End TR at 8 5 L
+end TR
+start L
+End L at 9 3 #
+end L
+start R
+End R at 9 5 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 9, x 5 (L)
+start TL
+End TL at 8 4 L
+end TL
+start Top
+End Top at 8 5 L
+end Top
+start TR
+End TR at 8 6 L
+end TR
+start L
+End L at 9 4 L
+end L
+start R
+End R at 9 6 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: L -> L (occupati: 1)
+====================================
+Current: y 9, x 6 (#)
+start TL
+End TL at 8 5 L
+end TL
+start Top
+End Top at 8 6 L
+end Top
+start TR
+End TR at 8 7 #
+end TR
+start L
+End L at 9 5 L
+end L
+start R
+End R at 9 8 L
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 1
+originale: # -> # (occupati: 1)
+====================================
+Current: y 9, x 8 (L)
+start TL
+End TL at 8 7 #
+end TL
+start Top
+End Top at 7 8 L
+end Top
+start TR
+End TR at 8 9 L
+end TR
+start L
+End L at 9 6 #
+end L
+start R
+End R at 9 9 #
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 3
+originale: L -> L (occupati: 3)
+====================================
+Current: y 9, x 9 (#)
+start TL
+End TL at 7 7 L
+end TL
+start Top
+End Top at 8 9 L
+end Top
+start TR
+end TR
+start L
+End L at 9 8 L
+end L
+start R
+end R
+start BL
+end BL
+start B
+end B
+start BR
+end BR
+
+Occupati: 0
+originale: # -> # (occupati: 0)
+#.L#.L#.L#
+#LLLLLL.LL
+L.L.L..#..
+##L#.#L.L#
+L.L#.LL.L#
+#.LLLL#.LL
+..#.L.....
+LLL###LLL#
+#.LLLLL#.L
+#.L#LL#.L#
+
+
+Occupied seats: 26
