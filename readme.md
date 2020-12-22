@@ -42,8 +42,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 10: Adapter Array](https://github.com/DamienPirsy/AoC_2020/tree/master/10)| 🌟 | 🌟 |
 | ✔ [Day 11: Seating System](https://github.com/DamienPirsy/AoC_2020/tree/master/11)| 🌟 | 🌟 |
 | ✔ [Day 12: Rain Risk](https://github.com/DamienPirsy/AoC_2020/tree/master/12)| 🌟 | 🌟 |
-| [Day 13: Shuttle Search](https://github.com/DamienPirsy/AoC_2020/tree/master/13)| 🌟 | |
-| [Day 14: TBD]()| | |
+| ✔ [Day 13: Shuttle Search](https://github.com/DamienPirsy/AoC_2020/tree/master/13)| 🌟 | 🌟 |
+| [Day 14: Docking Data](https://github.com/DamienPirsy/AoC_2020/tree/master/14)| | |
 | [Day 15: TBD]()| | |
 | [Day 16: TBD]()| | |
 | [Day 17: TBD]()| | |

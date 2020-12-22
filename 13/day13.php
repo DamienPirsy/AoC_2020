@@ -26,8 +26,24 @@ function solve_one(string $input) : string
     return sprintf("Result: %d\n",$minutes);
 }
 
-
 function solve_two(string $input) : string
 {
-    return "";
+    [$_, $ids] = xplode_input($input); // first line is useless here
+    $buses = array_filter(explode(',', $ids), function($bus) {
+        return $bus != 'x';
+    });
+
+    $i = 0;
+    $first = array_slice($buses, 0, 1, true); //get first element
+    $step = array_values($first)[0];
+    foreach ($buses as  $index => $bus) {
+        while (true) {
+            if ( ($i+$index) % $bus === 0) {
+                $step *= $bus;
+                break;
+            }
+            $i += $step;
+        }
+    }   
+    return sprintf("Result: %d\n",$i);
 }
